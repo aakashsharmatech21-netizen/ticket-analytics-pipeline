@@ -1,0 +1,4 @@
+customer_segment,breached,total_tickets,breach_pct
+Individual,142,240,59.2
+Enterprise,273,499,54.7
+Smb,246,461,53.4

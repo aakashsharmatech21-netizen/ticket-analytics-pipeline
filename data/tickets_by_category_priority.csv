@@ -1,0 +1,25 @@
+category,priority,ticket_count
+Technical,Low,93
+Billing,Low,90
+Technical,High,89
+Account Access,High,86
+Billing,High,77
+Account Access,Low,76
+Bug Report,High,53
+Bug Report,Low,52
+Feature Request,High,50
+Account Access,Medium,48
+Billing,Critical,47
+Billing,Medium,47
+Technical,Critical,47
+General Inquiry,High,46
+Technical,Medium,43
+Feature Request,Low,42
+Account Access,Critical,40
+General Inquiry,Low,34
+General Inquiry,Medium,32
+General Inquiry,Critical,25
+Feature Request,Medium,24
+Bug Report,Critical,23
+Feature Request,Critical,19
+Bug Report,Medium,17

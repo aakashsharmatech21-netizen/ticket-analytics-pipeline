@@ -1,0 +1,1201 @@
+ticket_id,category,priority,customer_segment,agent,status,created_date,resolved_date,resolution_time_hours,sla_status,created_month
+TCK-1661,Billing,Low,Smb,Riya,Pending,2026-07-26 14:00:00,,,Open,2026-07
+TCK-1099,Billing,Critical,Smb,Riya,Resolved,2026-02-28 23:00:00,,,Open,2026-02
+TCK-1678,General Inquiry,Low,Enterprise,Sana,Pending,2026-01-14 02:00:00,2026-01-18 22:00:00,116.0,Within SLA,2026-01
+TCK-1238,Bug Report,Medium,Smb,Priya,Closed,2026-01-04 06:00:00,2026-01-12 04:00:00,190.0,Breached,2026-01
+TCK-1734,Account Access,Medium,Smb,Priya,Closed,2026-06-26 21:00:00,2026-07-02 05:00:00,128.0,Breached,2026-06
+TCK-1142,Bug Report,High,Smb,Arjun,Open,2026-02-15 20:00:00,2026-02-23 22:00:00,194.0,Breached,2026-02
+TCK-1951,Billing,Low,Enterprise,Riya,Closed,2026-02-24 05:00:00,2026-03-03 06:00:00,169.0,Breached,2026-02
+TCK-1501,Account Access,Critical,Smb,Neha,Resolved,2026-06-17 12:00:00,2026-06-20 04:00:00,64.0,Breached,2026-06
+TCK-1698,Account Access,Critical,Smb,Vikram,Resolved,2026-05-06 01:00:00,2026-05-09 07:00:00,78.0,Breached,2026-05
+TCK-1180,Account Access,Critical,Smb,Karan,Resolved,2026-03-02 15:00:00,,,Open,2026-03
+TCK-1958,Bug Report,High,Enterprise,Sana,Closed,2026-03-22 04:00:00,2026-03-25 08:00:00,76.0,Breached,2026-03
+TCK-1796,Account Access,Low,Enterprise,Priya,Pending,2026-07-02 01:00:00,2026-07-06 14:00:00,109.0,Within SLA,2026-07
+TCK-1541,Technical,High,Smb,Neha,Resolved,2026-03-20 16:00:00,,,Open,2026-03
+TCK-1886,Feature Request,Low,Enterprise,Neha,Pending,2026-07-17 09:00:00,2026-07-21 02:00:00,89.0,Within SLA,2026-07
+TCK-2112,Account Access,Low,Enterprise,Unassigned,Resolved,2026-06-28 14:00:00,2026-07-05 11:00:00,165.0,Within SLA,2026-06
+TCK-1464,Technical,Low,Smb,Priya,Resolved,2026-05-09 03:00:00,,,Open,2026-05
+TCK-1035,Account Access,Medium,Individual,Amit,Resolved,2026-06-12 13:00:00,2026-06-13 01:00:00,12.0,Within SLA,2026-06
+TCK-1147,Account Access,Critical,Enterprise,Riya,Open,2026-05-15 16:00:00,2026-05-19 14:00:00,94.0,Breached,2026-05
+TCK-1064,Billing,High,Smb,Arjun,Resolved,2026-06-28 09:00:00,2026-07-04 19:00:00,154.0,Breached,2026-06
+TCK-1817,Billing,Critical,Individual,Vikram,Open,2026-01-13 20:00:00,2026-01-18 15:00:00,115.0,Breached,2026-01
+TCK-1953,Account Access,Medium,Smb,Karan,Open,2026-05-17 20:00:00,2026-05-18 20:00:00,24.0,Within SLA,2026-05
+TCK-1509,Bug Report,Low,Enterprise,Amit,Closed,2026-01-18 05:00:00,2026-01-19 10:00:00,29.0,Within SLA,2026-01
+TCK-1913,Bug Report,Medium,Enterprise,Sana,Resolved,2026-04-13 20:00:00,2026-04-18 00:00:00,100.0,Breached,2026-04
+TCK-1753,Feature Request,Low,Individual,Amit,Pending,2026-06-11 10:00:00,2026-06-19 15:00:00,197.0,Breached,2026-06
+TCK-2139,General Inquiry,High,Smb,Sana,Resolved,2026-06-24 04:00:00,2026-06-27 07:00:00,75.0,Breached,2026-06
+TCK-1253,General Inquiry,High,Enterprise,Neha,Resolved,2026-03-18 05:00:00,2026-03-24 07:00:00,146.0,Breached,2026-03
+TCK-1111,Technical,Critical,Enterprise,Arjun,Resolved,2026-05-30 12:00:00,2026-06-03 12:00:00,96.0,Breached,2026-05
+TCK-2147,Bug Report,Critical,Enterprise,Riya,Pending,2026-06-25 22:00:00,2026-06-29 17:00:00,91.0,Breached,2026-06
+TCK-1375,Billing,Critical,Enterprise,Sana,Open,2026-05-24 20:00:00,2026-05-27 21:00:00,73.0,Breached,2026-05
+TCK-1658,Billing,Low,Individual,Vikram,Pending,2026-03-02 06:00:00,,,Open,2026-03
+TCK-1649,Billing,High,Smb,Riya,Pending,2026-02-08 23:00:00,2026-02-18 20:00:00,237.0,Breached,2026-02
+TCK-1474,Technical,High,Smb,Riya,Resolved,2026-01-15 05:00:00,2026-01-19 22:00:00,113.0,Breached,2026-01
+TCK-1572,Billing,Low,Enterprise,Neha,Pending,2026-01-24 03:00:00,2026-01-30 22:00:00,163.0,Within SLA,2026-01
+TCK-1208,Technical,Low,Smb,Vikram,Closed,2026-05-18 08:00:00,2026-05-25 19:00:00,179.0,Breached,2026-05
+TCK-2182,Bug Report,Medium,Individual,Arjun,Resolved,2026-07-28 01:00:00,,,Open,2026-07
+TCK-1114,Billing,Critical,Smb,Sana,Resolved,2026-07-10 23:00:00,2026-07-15 10:00:00,107.0,Breached,2026-07
+TCK-1931,Account Access,High,Enterprise,Priya,Closed,2026-07-17 23:00:00,2026-07-25 13:00:00,182.0,Breached,2026-07
+TCK-2012,General Inquiry,Low,Individual,Sana,Closed,2026-04-03 23:00:00,2026-04-11 22:00:00,191.0,Breached,2026-04
+TCK-1697,Technical,Medium,Smb,Sana,Resolved,2026-04-17 05:00:00,2026-04-24 19:00:00,182.0,Breached,2026-04
+TCK-1212,Technical,High,Individual,Riya,Open,2026-02-15 01:00:00,2026-02-19 07:00:00,102.0,Breached,2026-02
+TCK-1110,Billing,High,Smb,Arjun,Open,2026-07-25 17:00:00,2026-08-03 04:00:00,203.0,Breached,2026-07
+TCK-2190,Account Access,High,Smb,Riya,Open,2026-07-15 11:00:00,2026-07-25 04:00:00,233.0,Breached,2026-07
+TCK-1411,Account Access,Low,Smb,Karan,Resolved,2026-07-14 21:00:00,2026-07-18 13:00:00,88.0,Within SLA,2026-07
+TCK-1396,Billing,Low,Enterprise,Karan,Resolved,2026-03-02 00:00:00,,,Open,2026-03
+TCK-1882,Account Access,High,Enterprise,Unassigned,Pending,2026-04-30 13:00:00,2026-05-09 03:00:00,206.0,Breached,2026-04
+TCK-1713,General Inquiry,Low,Enterprise,Riya,Resolved,2026-02-11 16:00:00,2026-02-18 05:00:00,157.0,Within SLA,2026-02
+TCK-1514,Bug Report,High,Enterprise,Vikram,Pending,2026-07-17 14:00:00,2026-07-17 23:00:00,9.0,Within SLA,2026-07
+TCK-2196,General Inquiry,High,Enterprise,Sana,Open,2026-01-15 18:00:00,2026-01-18 17:00:00,71.0,Breached,2026-01
+TCK-1052,Bug Report,Medium,Enterprise,Vikram,Open,2026-06-06 23:00:00,2026-06-11 13:00:00,110.0,Breached,2026-06
+TCK-1160,Billing,Low,Individual,Neha,Resolved,2026-07-14 22:00:00,2026-07-21 12:00:00,158.0,Within SLA,2026-07
+TCK-1415,Technical,High,Smb,Arjun,Resolved,2026-05-04 16:00:00,2026-05-14 10:00:00,234.0,Breached,2026-05
+TCK-1741,Technical,Critical,Individual,Neha,Open,2026-04-16 10:00:00,2026-04-26 04:00:00,234.0,Breached,2026-04
+TCK-2024,Billing,Low,Smb,Priya,Open,2026-02-26 23:00:00,2026-02-28 21:00:00,46.0,Within SLA,2026-02
+TCK-1961,Billing,Medium,Enterprise,Sana,Closed,2026-07-03 06:00:00,2026-07-13 06:00:00,240.0,Breached,2026-07
+TCK-2178,General Inquiry,Low,Enterprise,Riya,Resolved,2026-01-15 00:00:00,2026-01-23 16:00:00,208.0,Breached,2026-01
+TCK-1485,Bug Report,High,Smb,Sana,Pending,2026-06-07 00:00:00,2026-06-12 19:00:00,139.0,Breached,2026-06
+TCK-2009,Billing,Medium,Enterprise,Unassigned,Open,2026-03-13 11:00:00,2026-03-16 03:00:00,64.0,Within SLA,2026-03
+TCK-1152,Billing,High,Individual,Neha,Resolved,2026-05-10 17:00:00,2026-05-20 04:00:00,227.0,Breached,2026-05
+TCK-1552,Account Access,Low,Enterprise,Priya,Closed,2026-04-10 21:00:00,2026-04-20 00:00:00,219.0,Breached,2026-04
+TCK-1737,General Inquiry,High,Enterprise,Arjun,Closed,2026-02-23 11:00:00,2026-03-02 10:00:00,167.0,Breached,2026-02
+TCK-2082,Feature Request,Low,Enterprise,Karan,Pending,2026-07-26 03:00:00,,,Open,2026-07
+TCK-1493,Technical,Low,Smb,Amit,Resolved,2026-05-24 18:00:00,,,Open,2026-05
+TCK-1307,General Inquiry,Low,Smb,Sana,Resolved,2026-06-29 12:00:00,,,Open,2026-06
+TCK-1569,General Inquiry,Medium,Enterprise,Amit,Resolved,2026-02-12 13:00:00,2026-02-22 09:00:00,236.0,Breached,2026-02
+TCK-1529,Account Access,Low,Enterprise,Sana,Resolved,2026-07-23 22:00:00,,,Open,2026-07
+TCK-1028,Billing,High,Smb,Vikram,Resolved,2026-05-11 02:00:00,2026-05-11 20:00:00,18.0,Within SLA,2026-05
+TCK-1364,Bug Report,High,Individual,Unassigned,Open,2026-04-12 10:00:00,2026-04-12 23:00:00,13.0,Within SLA,2026-04
+TCK-1286,Account Access,High,Smb,Neha,Resolved,2026-04-23 03:00:00,2026-04-25 16:00:00,61.0,Breached,2026-04
+TCK-1949,General Inquiry,Low,Smb,Karan,Open,2026-02-19 22:00:00,2026-02-25 12:00:00,134.0,Within SLA,2026-02
+TCK-1705,Feature Request,High,Smb,Neha,Resolved,2026-01-04 04:00:00,2026-01-08 04:00:00,96.0,Breached,2026-01
+TCK-1129,Technical,Critical,Smb,Riya,Resolved,2026-03-31 17:00:00,2026-04-08 21:00:00,196.0,Breached,2026-03
+TCK-1960,Bug Report,High,Enterprise,Arjun,Closed,2026-06-30 18:00:00,2026-07-09 15:00:00,213.0,Breached,2026-06
+TCK-2025,Technical,High,Individual,Priya,Closed,2026-06-10 20:00:00,2026-06-13 01:00:00,53.0,Breached,2026-06
+TCK-1317,Bug Report,High,Individual,Amit,Resolved,2026-02-27 16:00:00,2026-03-03 23:00:00,103.0,Breached,2026-02
+TCK-1047,Account Access,Critical,Enterprise,Vikram,Resolved,2026-03-15 06:00:00,2026-03-21 11:00:00,149.0,Breached,2026-03
+TCK-1523,General Inquiry,Critical,Smb,Arjun,Resolved,2026-07-29 08:00:00,2026-08-03 05:00:00,117.0,Breached,2026-07
+TCK-1475,Billing,High,Smb,Neha,Resolved,2026-05-11 16:00:00,2026-05-18 06:00:00,158.0,Breached,2026-05
+TCK-1410,Bug Report,High,Individual,Karan,Resolved,2026-07-29 07:00:00,2026-08-01 20:00:00,85.0,Breached,2026-07
+TCK-1816,Billing,High,Individual,Arjun,Resolved,2026-07-18 09:00:00,2026-07-23 19:00:00,130.0,Breached,2026-07
+TCK-1641,Feature Request,High,Smb,Priya,Resolved,2026-02-08 20:00:00,2026-02-18 19:00:00,239.0,Breached,2026-02
+TCK-1633,Billing,Low,Enterprise,Karan,Pending,2026-03-22 17:00:00,,,Open,2026-03
+TCK-1976,Bug Report,High,Individual,Arjun,Resolved,2026-07-20 09:00:00,2026-07-25 03:00:00,114.0,Breached,2026-07
+TCK-1670,Technical,Low,Smb,Priya,Closed,2026-07-27 22:00:00,2026-08-01 18:00:00,116.0,Within SLA,2026-07
+TCK-1722,Billing,High,Enterprise,Neha,Resolved,2026-05-11 08:00:00,2026-05-16 05:00:00,117.0,Breached,2026-05
+TCK-1452,Technical,Low,Smb,Arjun,Pending,2026-07-14 15:00:00,2026-07-17 11:00:00,68.0,Within SLA,2026-07
+TCK-2026,Technical,Critical,Enterprise,Amit,Closed,2026-04-25 07:00:00,2026-04-29 23:00:00,112.0,Breached,2026-04
+TCK-1309,Billing,Medium,Enterprise,Karan,Pending,2026-06-28 13:00:00,2026-07-07 14:00:00,217.0,Breached,2026-06
+TCK-1695,Feature Request,Medium,Smb,Neha,Closed,2026-07-26 23:00:00,2026-07-31 12:00:00,109.0,Breached,2026-07
+TCK-2034,Technical,High,Enterprise,Karan,Pending,2026-04-20 12:00:00,2026-04-27 12:00:00,168.0,Breached,2026-04
+TCK-1820,Technical,Critical,Enterprise,Priya,Resolved,2026-01-24 01:00:00,2026-01-25 11:00:00,34.0,Breached,2026-01
+TCK-1603,Account Access,High,Enterprise,Arjun,Open,2026-03-01 07:00:00,2026-03-10 21:00:00,230.0,Breached,2026-03
+TCK-2143,Feature Request,Critical,Enterprise,Karan,Open,2026-02-26 01:00:00,2026-03-01 20:00:00,91.0,Breached,2026-02
+TCK-1736,Billing,Low,Individual,Amit,Pending,2026-04-13 07:00:00,2026-04-14 07:00:00,24.0,Within SLA,2026-04
+TCK-1463,Billing,Medium,Enterprise,Riya,Resolved,2026-05-10 21:00:00,2026-05-12 12:00:00,39.0,Within SLA,2026-05
+TCK-2084,Feature Request,High,Enterprise,Unassigned,Open,2026-02-20 15:00:00,2026-02-24 09:00:00,90.0,Breached,2026-02
+TCK-1942,Billing,Medium,Smb,Priya,Resolved,2026-07-12 00:00:00,2026-07-20 11:00:00,203.0,Breached,2026-07
+TCK-1240,Bug Report,High,Smb,Priya,Resolved,2026-05-08 14:00:00,,,Open,2026-05
+TCK-1206,General Inquiry,Critical,Enterprise,Neha,Open,2026-07-23 23:00:00,2026-07-25 07:00:00,32.0,Breached,2026-07
+TCK-1221,Billing,Low,Smb,Vikram,Resolved,2026-04-25 16:00:00,2026-04-26 12:00:00,20.0,Within SLA,2026-04
+TCK-1954,General Inquiry,Critical,Smb,Karan,Open,2026-04-07 22:00:00,2026-04-15 16:00:00,186.0,Breached,2026-04
+TCK-1102,Account Access,High,Smb,Amit,Open,2026-04-28 08:00:00,2026-05-07 23:00:00,231.0,Breached,2026-04
+TCK-1751,Account Access,High,Enterprise,Vikram,Pending,2026-03-06 17:00:00,2026-03-13 13:00:00,164.0,Breached,2026-03
+TCK-1061,Technical,Medium,Enterprise,Vikram,Pending,2026-03-05 06:00:00,2026-03-11 22:00:00,160.0,Breached,2026-03
+TCK-1263,Bug Report,High,Enterprise,Neha,Open,2026-03-27 19:00:00,2026-04-06 00:00:00,221.0,Breached,2026-03
+TCK-1907,Technical,Critical,Individual,Riya,Resolved,2026-01-20 21:00:00,2026-01-28 03:00:00,174.0,Breached,2026-01
+TCK-1768,Technical,Low,Individual,Priya,Closed,2026-02-13 16:00:00,2026-02-17 07:00:00,87.0,Within SLA,2026-02
+TCK-1688,General Inquiry,High,Individual,Sana,Resolved,2026-04-28 10:00:00,2026-05-06 08:00:00,190.0,Breached,2026-04
+TCK-1205,Technical,High,Enterprise,Arjun,Resolved,2026-05-23 09:00:00,2026-05-26 14:00:00,77.0,Breached,2026-05
+TCK-1970,Technical,Critical,Enterprise,Priya,Open,2026-06-27 23:00:00,,,Open,2026-06
+TCK-1869,Technical,Critical,Smb,Amit,Open,2026-05-07 07:00:00,2026-05-14 03:00:00,164.0,Breached,2026-05
+TCK-2136,General Inquiry,Critical,Smb,Arjun,Open,2026-06-13 03:00:00,2026-06-22 12:00:00,225.0,Breached,2026-06
+TCK-1819,Bug Report,Low,Smb,Priya,Resolved,2026-03-25 16:00:00,2026-04-03 11:00:00,211.0,Breached,2026-03
+TCK-2028,Technical,Low,Enterprise,Priya,Resolved,2026-02-15 12:00:00,2026-02-17 13:00:00,49.0,Within SLA,2026-02
+TCK-1281,Billing,High,Enterprise,Vikram,Pending,2026-02-05 05:00:00,2026-02-10 01:00:00,116.0,Breached,2026-02
+TCK-2111,General Inquiry,High,Enterprise,Priya,Open,2026-03-12 10:00:00,2026-03-16 17:00:00,103.0,Breached,2026-03
+TCK-1587,Billing,Medium,Smb,Arjun,Pending,2026-06-25 10:00:00,2026-07-03 04:00:00,186.0,Breached,2026-06
+TCK-2058,Technical,Medium,Smb,Neha,Resolved,2026-01-21 20:00:00,,,Open,2026-01
+TCK-2042,Account Access,Low,Enterprise,Karan,Resolved,2026-03-02 11:00:00,,,Open,2026-03
+TCK-1279,Account Access,High,Smb,Priya,Resolved,2026-03-22 03:00:00,2026-03-23 09:00:00,30.0,Within SLA,2026-03
+TCK-1453,Account Access,Low,Smb,Sana,Open,2026-05-01 14:00:00,2026-05-02 01:00:00,11.0,Within SLA,2026-05
+TCK-1512,Technical,Low,Individual,Karan,Resolved,2026-04-29 22:00:00,2026-05-03 11:00:00,85.0,Within SLA,2026-04
+TCK-1066,General Inquiry,Critical,Enterprise,Sana,Open,2026-04-22 05:00:00,2026-04-29 04:00:00,167.0,Breached,2026-04
+TCK-1794,Billing,High,Enterprise,Priya,Pending,2026-05-30 07:00:00,2026-06-05 09:00:00,146.0,Breached,2026-05
+TCK-1010,Bug Report,Medium,Individual,Sana,Resolved,2026-06-17 15:00:00,2026-06-27 10:00:00,235.0,Breached,2026-06
+TCK-1928,Bug Report,Medium,Smb,Riya,Resolved,2026-06-05 15:00:00,,,Open,2026-06
+TCK-1054,Technical,High,Smb,Priya,Open,2026-05-19 02:00:00,2026-05-21 14:00:00,60.0,Breached,2026-05
+TCK-1351,General Inquiry,High,Smb,Sana,Open,2026-01-14 03:00:00,2026-01-16 04:00:00,49.0,Breached,2026-01
+TCK-1217,Account Access,High,Smb,Riya,Open,2026-03-08 12:00:00,2026-03-16 13:00:00,193.0,Breached,2026-03
+TCK-2072,Bug Report,Critical,Smb,Sana,Closed,2026-01-18 08:00:00,2026-01-21 13:00:00,77.0,Breached,2026-01
+TCK-1481,Technical,High,Enterprise,Riya,Open,2026-04-08 20:00:00,2026-04-11 05:00:00,57.0,Breached,2026-04
+TCK-1041,Account Access,High,Smb,Arjun,Resolved,2026-03-26 08:00:00,2026-04-03 14:00:00,198.0,Breached,2026-03
+TCK-1173,Technical,Low,Smb,Amit,Resolved,2026-06-21 20:00:00,2026-06-27 08:00:00,132.0,Within SLA,2026-06
+TCK-1745,Account Access,High,Enterprise,Neha,Closed,2026-03-22 19:00:00,2026-03-23 12:00:00,17.0,Within SLA,2026-03
+TCK-1883,Account Access,Low,Smb,Karan,Open,2026-03-01 08:00:00,2026-03-05 04:00:00,92.0,Within SLA,2026-03
+TCK-1084,Billing,High,Individual,Neha,Pending,2026-02-28 21:00:00,2026-03-07 01:00:00,148.0,Breached,2026-02
+TCK-1273,Bug Report,High,Enterprise,Karan,Resolved,2026-05-04 11:00:00,2026-05-09 04:00:00,113.0,Breached,2026-05
+TCK-1901,Account Access,High,Smb,Karan,Closed,2026-06-28 01:00:00,2026-07-07 08:00:00,223.0,Breached,2026-06
+TCK-1892,Bug Report,High,Individual,Karan,Resolved,2026-04-09 06:00:00,2026-04-12 19:00:00,85.0,Breached,2026-04
+TCK-1668,Technical,Medium,Individual,Vikram,Resolved,2026-05-02 14:00:00,2026-05-10 09:00:00,187.0,Breached,2026-05
+TCK-1417,General Inquiry,High,Smb,Vikram,Closed,2026-07-26 04:00:00,2026-08-01 15:00:00,155.0,Breached,2026-07
+TCK-2132,Billing,High,Individual,Arjun,Resolved,2026-05-15 16:00:00,2026-05-17 06:00:00,38.0,Within SLA,2026-05
+TCK-1190,Technical,Low,Enterprise,Priya,Resolved,2026-03-03 14:00:00,2026-03-08 10:00:00,116.0,Within SLA,2026-03
+TCK-1564,Feature Request,Low,Individual,Vikram,Closed,2026-05-02 04:00:00,2026-05-04 14:00:00,58.0,Within SLA,2026-05
+TCK-1879,Billing,Medium,Smb,Amit,Closed,2026-03-10 18:00:00,2026-03-20 14:00:00,236.0,Breached,2026-03
+TCK-2166,General Inquiry,Medium,Smb,Amit,Open,2026-03-24 03:00:00,2026-03-28 04:00:00,97.0,Breached,2026-03
+TCK-1484,Account Access,Medium,Enterprise,Karan,Pending,2026-02-22 07:00:00,2026-02-24 23:00:00,64.0,Within SLA,2026-02
+TCK-2172,Account Access,Low,Smb,Karan,Resolved,2026-02-27 09:00:00,2026-03-02 02:00:00,65.0,Within SLA,2026-02
+TCK-1408,Feature Request,Low,Smb,Karan,Resolved,2026-07-10 20:00:00,,,Open,2026-07
+TCK-1126,Billing,Low,Enterprise,Arjun,Closed,2026-04-06 04:00:00,2026-04-11 06:00:00,122.0,Within SLA,2026-04
+TCK-1055,Feature Request,Low,Enterprise,Priya,Pending,2026-05-19 14:00:00,2026-05-21 19:00:00,53.0,Within SLA,2026-05
+TCK-2049,Account Access,Low,Smb,Vikram,Pending,2026-04-19 21:00:00,2026-04-24 18:00:00,117.0,Within SLA,2026-04
+TCK-1373,Account Access,Critical,Enterprise,Amit,Open,2026-03-06 19:00:00,2026-03-10 02:00:00,79.0,Breached,2026-03
+TCK-1682,General Inquiry,High,Individual,Arjun,Open,2026-02-18 02:00:00,,,Open,2026-02
+TCK-1771,Technical,Low,Smb,Amit,Open,2026-06-18 20:00:00,2026-06-19 10:00:00,14.0,Within SLA,2026-06
+TCK-1778,Account Access,High,Enterprise,Priya,Resolved,2026-02-03 06:00:00,2026-02-11 20:00:00,206.0,Breached,2026-02
+TCK-2011,Billing,High,Smb,Neha,Open,2026-03-27 09:00:00,,,Open,2026-03
+TCK-1098,Bug Report,Low,Enterprise,Vikram,Open,2026-06-22 17:00:00,2026-06-26 03:00:00,82.0,Within SLA,2026-06
+TCK-1657,Billing,High,Individual,Riya,Resolved,2026-06-27 01:00:00,2026-07-04 17:00:00,184.0,Breached,2026-06
+TCK-1229,Technical,Medium,Enterprise,Riya,Pending,2026-07-27 21:00:00,2026-08-05 02:00:00,197.0,Breached,2026-07
+TCK-1956,General Inquiry,Medium,Enterprise,Arjun,Open,2026-04-08 18:00:00,2026-04-12 02:00:00,80.0,Within SLA,2026-04
+TCK-1535,General Inquiry,Medium,Individual,Unassigned,Closed,2026-07-05 01:00:00,2026-07-11 10:00:00,153.0,Breached,2026-07
+TCK-1337,Feature Request,High,Smb,Arjun,Open,2026-05-17 23:00:00,,,Open,2026-05
+TCK-1013,Billing,High,Smb,Arjun,Resolved,2026-03-06 17:00:00,2026-03-06 20:00:00,3.0,Within SLA,2026-03
+TCK-1458,Billing,Medium,Enterprise,Neha,Closed,2026-05-03 06:00:00,2026-05-10 04:00:00,166.0,Breached,2026-05
+TCK-1557,Technical,Critical,Smb,Priya,Open,2026-05-14 21:00:00,2026-05-21 14:00:00,161.0,Breached,2026-05
+TCK-1171,Billing,High,Individual,Priya,Closed,2026-06-04 05:00:00,2026-06-07 16:00:00,83.0,Breached,2026-06
+TCK-1049,Bug Report,Low,Enterprise,Vikram,Pending,2026-02-27 06:00:00,2026-02-27 18:00:00,12.0,Within SLA,2026-02
+TCK-1014,Account Access,Low,Smb,Karan,Open,2026-03-17 13:00:00,2026-03-17 14:00:00,1.0,Within SLA,2026-03
+TCK-1644,Billing,High,Smb,Arjun,Resolved,2026-06-24 09:00:00,2026-07-01 03:00:00,162.0,Breached,2026-06
+TCK-1574,Account Access,High,Enterprise,Neha,Resolved,2026-07-16 22:00:00,,,Open,2026-07
+TCK-2199,General Inquiry,High,Enterprise,Arjun,Resolved,2026-01-05 21:00:00,2026-01-14 23:00:00,218.0,Breached,2026-01
+TCK-1604,Billing,High,Enterprise,Neha,Open,2026-04-27 15:00:00,,,Open,2026-04
+TCK-1021,Bug Report,Medium,Enterprise,Vikram,Resolved,2026-02-24 17:00:00,2026-03-06 17:00:00,240.0,Breached,2026-02
+TCK-1225,Billing,High,Enterprise,Neha,Pending,2026-05-19 01:00:00,2026-05-19 19:00:00,18.0,Within SLA,2026-05
+TCK-1573,Account Access,Low,Smb,Neha,Closed,2026-05-21 12:00:00,,,Open,2026-05
+TCK-2074,Feature Request,High,Smb,Riya,Resolved,2026-05-02 17:00:00,2026-05-04 11:00:00,42.0,Within SLA,2026-05
+TCK-2019,Technical,Low,Enterprise,Amit,Resolved,2026-06-05 08:00:00,2026-06-05 09:00:00,1.0,Within SLA,2026-06
+TCK-1714,General Inquiry,Low,Enterprise,Amit,Open,2026-02-25 22:00:00,2026-02-28 23:00:00,73.0,Within SLA,2026-02
+TCK-1455,Feature Request,High,Individual,Amit,Resolved,2026-03-06 12:00:00,2026-03-08 22:00:00,58.0,Breached,2026-03
+TCK-2189,Feature Request,Low,Enterprise,Riya,Resolved,2026-04-24 01:00:00,2026-04-28 03:00:00,98.0,Within SLA,2026-04
+TCK-2187,Billing,Low,Enterprise,Sana,Open,2026-01-10 07:00:00,2026-01-17 06:00:00,167.0,Within SLA,2026-01
+TCK-1380,Account Access,High,Enterprise,Vikram,Open,2026-07-05 17:00:00,2026-07-07 16:00:00,47.0,Within SLA,2026-07
+TCK-1290,Feature Request,Low,Individual,Arjun,Pending,2026-04-07 14:00:00,,,Open,2026-04
+TCK-2127,Billing,Medium,Individual,Neha,Closed,2026-06-08 22:00:00,2026-06-13 03:00:00,101.0,Breached,2026-06
+TCK-1018,Technical,High,Individual,Arjun,Pending,2026-05-16 19:00:00,2026-05-19 02:00:00,55.0,Breached,2026-05
+TCK-2039,Technical,Medium,Enterprise,Amit,Pending,2026-04-20 23:00:00,2026-04-21 23:00:00,24.0,Within SLA,2026-04
+TCK-1432,Bug Report,Low,Individual,Vikram,Open,2026-07-30 11:00:00,2026-08-04 22:00:00,131.0,Within SLA,2026-07
+TCK-1596,Account Access,Low,Smb,Vikram,Open,2026-01-12 03:00:00,2026-01-19 04:00:00,169.0,Breached,2026-01
+TCK-1856,Billing,High,Enterprise,Unassigned,Pending,2026-01-20 07:00:00,2026-01-23 20:00:00,85.0,Breached,2026-01
+TCK-2123,Feature Request,Low,Enterprise,Riya,Pending,2026-05-21 02:00:00,2026-05-23 09:00:00,55.0,Within SLA,2026-05
+TCK-1618,Feature Request,Low,Enterprise,Vikram,Resolved,2026-07-29 14:00:00,2026-08-01 00:00:00,58.0,Within SLA,2026-07
+TCK-1116,Billing,High,Smb,Riya,Resolved,2026-04-12 08:00:00,2026-04-13 16:00:00,32.0,Within SLA,2026-04
+TCK-1998,Account Access,Medium,Enterprise,Sana,Open,2026-02-01 15:00:00,,,Open,2026-02
+TCK-1904,Billing,Low,Individual,Neha,Open,2026-03-29 23:00:00,2026-04-01 01:00:00,50.0,Within SLA,2026-03
+TCK-1537,Account Access,Low,Smb,Sana,Resolved,2026-01-10 14:00:00,2026-01-12 02:00:00,36.0,Within SLA,2026-01
+TCK-1494,General Inquiry,Low,Individual,Priya,Resolved,2026-04-26 23:00:00,2026-04-30 20:00:00,93.0,Within SLA,2026-04
+TCK-1158,Account Access,Medium,Enterprise,Arjun,Closed,2026-03-31 00:00:00,2026-04-04 06:00:00,102.0,Breached,2026-03
+TCK-1284,Account Access,Low,Enterprise,Amit,Resolved,2026-05-11 03:00:00,2026-05-14 00:00:00,69.0,Within SLA,2026-05
+TCK-1490,Bug Report,Medium,Smb,Vikram,Resolved,2026-06-29 11:00:00,2026-07-03 18:00:00,103.0,Breached,2026-06
+TCK-1141,Technical,High,Smb,Neha,Resolved,2026-07-06 20:00:00,2026-07-09 09:00:00,61.0,Breached,2026-07
+TCK-1923,Technical,Low,Enterprise,Amit,Open,2026-02-02 02:00:00,2026-02-07 23:00:00,141.0,Within SLA,2026-02
+TCK-1849,Technical,Medium,Enterprise,Riya,Open,2026-01-24 19:00:00,2026-02-02 10:00:00,207.0,Breached,2026-01
+TCK-1814,Feature Request,High,Smb,Sana,Closed,2026-03-19 02:00:00,,,Open,2026-03
+TCK-1431,Feature Request,High,Smb,Riya,Resolved,2026-06-24 10:00:00,2026-07-02 22:00:00,204.0,Breached,2026-06
+TCK-1965,Technical,Critical,Enterprise,Neha,Resolved,2026-04-03 23:00:00,2026-04-05 02:00:00,27.0,Breached,2026-04
+TCK-1588,Bug Report,Low,Individual,Priya,Resolved,2026-05-02 01:00:00,2026-05-07 05:00:00,124.0,Within SLA,2026-05
+TCK-1507,Feature Request,Medium,Individual,Vikram,Resolved,2026-03-05 05:00:00,2026-03-12 03:00:00,166.0,Breached,2026-03
+TCK-2050,Technical,High,Smb,Riya,Closed,2026-02-10 08:00:00,2026-02-15 22:00:00,134.0,Breached,2026-02
+TCK-1532,General Inquiry,High,Smb,Amit,Open,2026-01-27 05:00:00,2026-02-02 02:00:00,141.0,Breached,2026-01
+TCK-1165,Account Access,Medium,Enterprise,Arjun,Closed,2026-03-06 23:00:00,,,Open,2026-03
+TCK-2021,Technical,High,Smb,Riya,Closed,2026-01-12 17:00:00,2026-01-13 04:00:00,11.0,Within SLA,2026-01
+TCK-1109,Bug Report,Low,Smb,Vikram,Pending,2026-07-26 09:00:00,2026-07-30 00:00:00,87.0,Within SLA,2026-07
+TCK-1699,Bug Report,Low,Individual,Amit,Closed,2026-07-22 00:00:00,2026-07-25 05:00:00,77.0,Within SLA,2026-07
+TCK-1264,Account Access,Medium,Enterprise,Sana,Pending,2026-03-24 19:00:00,2026-03-26 23:00:00,52.0,Within SLA,2026-03
+TCK-2093,Billing,Critical,Individual,Vikram,Pending,2026-02-06 09:00:00,2026-02-08 08:00:00,47.0,Breached,2026-02
+TCK-1100,Technical,Medium,Smb,Neha,Closed,2026-03-25 01:00:00,2026-03-29 01:00:00,96.0,Within SLA,2026-03
+TCK-2197,Technical,Low,Enterprise,Riya,Closed,2026-03-08 15:00:00,2026-03-15 09:00:00,162.0,Within SLA,2026-03
+TCK-2096,General Inquiry,Low,Smb,Sana,Resolved,2026-03-29 11:00:00,2026-04-05 01:00:00,158.0,Within SLA,2026-03
+TCK-1548,Billing,High,Enterprise,Neha,Open,2026-06-25 11:00:00,2026-07-03 06:00:00,187.0,Breached,2026-06
+TCK-1656,General Inquiry,Critical,Enterprise,Neha,Resolved,2026-06-27 04:00:00,2026-07-04 00:00:00,164.0,Breached,2026-06
+TCK-1969,Technical,Low,Smb,Amit,Open,2026-01-22 03:00:00,2026-01-29 07:00:00,172.0,Breached,2026-01
+TCK-1427,Account Access,Critical,Smb,Karan,Open,2026-02-09 10:00:00,2026-02-17 17:00:00,199.0,Breached,2026-02
+TCK-1805,Billing,Medium,Individual,Sana,Pending,2026-01-11 16:00:00,,,Open,2026-01
+TCK-1254,Feature Request,Medium,Enterprise,Priya,Open,2026-05-09 23:00:00,2026-05-10 13:00:00,14.0,Within SLA,2026-05
+TCK-1758,Account Access,High,Smb,Arjun,Closed,2026-05-03 23:00:00,2026-05-05 20:00:00,45.0,Within SLA,2026-05
+TCK-2020,Account Access,High,Individual,Neha,Closed,2026-07-01 23:00:00,2026-07-05 05:00:00,78.0,Breached,2026-07
+TCK-2018,Technical,Critical,Smb,Priya,Pending,2026-05-07 21:00:00,2026-05-13 09:00:00,132.0,Breached,2026-05
+TCK-1978,Account Access,Medium,Smb,Sana,Open,2026-02-04 19:00:00,2026-02-11 03:00:00,152.0,Breached,2026-02
+TCK-1680,Technical,Critical,Smb,Riya,Open,2026-01-20 03:00:00,2026-01-21 08:00:00,29.0,Breached,2026-01
+TCK-1653,Account Access,Low,Enterprise,Priya,Closed,2026-07-23 06:00:00,2026-07-29 14:00:00,152.0,Within SLA,2026-07
+TCK-1356,Technical,High,Enterprise,Arjun,Resolved,2026-03-09 07:00:00,2026-03-15 08:00:00,145.0,Breached,2026-03
+TCK-1748,Account Access,Critical,Enterprise,Riya,Pending,2026-02-25 04:00:00,,,Open,2026-02
+TCK-1024,Bug Report,Low,Enterprise,Riya,Resolved,2026-02-16 08:00:00,2026-02-25 16:00:00,224.0,Breached,2026-02
+TCK-1510,Technical,Low,Individual,Amit,Resolved,2026-03-24 00:00:00,2026-03-29 17:00:00,137.0,Within SLA,2026-03
+TCK-1881,Billing,Critical,Smb,Priya,Pending,2026-03-17 14:00:00,2026-03-20 01:00:00,59.0,Breached,2026-03
+TCK-1675,Feature Request,High,Enterprise,Arjun,Open,2026-05-12 21:00:00,2026-05-13 11:00:00,14.0,Within SLA,2026-05
+TCK-1890,Account Access,High,Smb,Unassigned,Resolved,2026-06-25 12:00:00,2026-07-02 21:00:00,177.0,Breached,2026-06
+TCK-1784,Account Access,Medium,Smb,Riya,Resolved,2026-01-21 15:00:00,2026-01-23 00:00:00,33.0,Within SLA,2026-01
+TCK-1319,Billing,Critical,Enterprise,Arjun,Resolved,2026-07-07 17:00:00,2026-07-10 08:00:00,63.0,Breached,2026-07
+TCK-1187,Account Access,High,Individual,Priya,Open,2026-06-13 00:00:00,2026-06-19 17:00:00,161.0,Breached,2026-06
+TCK-2053,Technical,Low,Enterprise,Riya,Open,2026-07-19 10:00:00,,,Open,2026-07
+TCK-1413,Account Access,Low,Enterprise,Karan,Pending,2026-04-11 06:00:00,2026-04-19 15:00:00,201.0,Breached,2026-04
+TCK-1400,Bug Report,High,Enterprise,Amit,Pending,2026-04-06 10:00:00,2026-04-10 17:00:00,103.0,Breached,2026-04
+TCK-1326,Billing,Medium,Individual,Vikram,Open,2026-02-10 21:00:00,2026-02-18 10:00:00,181.0,Breached,2026-02
+TCK-1124,Billing,High,Smb,Vikram,Pending,2026-06-04 13:00:00,,,Open,2026-06
+TCK-2081,Feature Request,High,Individual,Karan,Resolved,2026-04-22 12:00:00,2026-04-29 13:00:00,169.0,Breached,2026-04
+TCK-1836,Account Access,Critical,Enterprise,Vikram,Resolved,2026-04-10 03:00:00,2026-04-14 13:00:00,106.0,Breached,2026-04
+TCK-2070,Feature Request,Low,Individual,Amit,Closed,2026-02-07 20:00:00,2026-02-13 22:00:00,146.0,Within SLA,2026-02
+TCK-1524,Feature Request,Medium,Smb,Neha,Resolved,2026-03-03 10:00:00,2026-03-10 11:00:00,169.0,Breached,2026-03
+TCK-1607,Feature Request,Low,Individual,Vikram,Closed,2026-03-29 06:00:00,2026-04-04 14:00:00,152.0,Within SLA,2026-03
+TCK-2036,Technical,High,Enterprise,Sana,Resolved,2026-06-04 04:00:00,2026-06-09 20:00:00,136.0,Breached,2026-06
+TCK-1884,Billing,Low,Smb,Arjun,Open,2026-02-28 03:00:00,,,Open,2026-02
+TCK-1232,Feature Request,High,Individual,Neha,Pending,2026-03-19 04:00:00,2026-03-24 18:00:00,134.0,Breached,2026-03
+TCK-1148,Feature Request,High,Individual,Neha,Open,2026-01-17 10:00:00,,,Open,2026-01
+TCK-1168,Bug Report,High,Enterprise,Vikram,Open,2026-03-22 09:00:00,2026-03-31 02:00:00,209.0,Breached,2026-03
+TCK-1864,Billing,Low,Smb,Priya,Resolved,2026-07-05 19:00:00,2026-07-08 10:00:00,63.0,Within SLA,2026-07
+TCK-1071,Account Access,High,Enterprise,Sana,Closed,2026-05-22 16:00:00,2026-05-30 15:00:00,191.0,Breached,2026-05
+TCK-1612,General Inquiry,Critical,Smb,Riya,Open,2026-07-03 11:00:00,2026-07-09 17:00:00,150.0,Breached,2026-07
+TCK-1595,Account Access,Low,Smb,Arjun,Pending,2026-04-10 22:00:00,2026-04-12 04:00:00,30.0,Within SLA,2026-04
+TCK-1172,Account Access,Low,Enterprise,Riya,Resolved,2026-06-26 14:00:00,2026-06-27 01:00:00,11.0,Within SLA,2026-06
+TCK-1327,Account Access,Medium,Enterprise,Amit,Resolved,2026-04-12 16:00:00,,,Open,2026-04
+TCK-1169,Billing,High,Enterprise,Amit,Pending,2026-04-02 01:00:00,2026-04-05 14:00:00,85.0,Breached,2026-04
+TCK-1265,Account Access,Low,Smb,Neha,Resolved,2026-05-28 07:00:00,2026-05-31 07:00:00,72.0,Within SLA,2026-05
+TCK-1446,Bug Report,Critical,Enterprise,Sana,Pending,2026-03-12 11:00:00,2026-03-20 07:00:00,188.0,Breached,2026-03
+TCK-1984,Billing,Low,Individual,Sana,Resolved,2026-05-15 23:00:00,2026-05-22 06:00:00,151.0,Within SLA,2026-05
+TCK-1306,Feature Request,Low,Individual,Priya,Pending,2026-01-04 08:00:00,2026-01-14 05:00:00,237.0,Breached,2026-01
+TCK-1701,Billing,High,Smb,Neha,Open,2026-06-27 03:00:00,2026-07-04 23:00:00,188.0,Breached,2026-06
+TCK-1952,Account Access,High,Enterprise,Karan,Closed,2026-03-25 12:00:00,2026-03-27 21:00:00,57.0,Breached,2026-03
+TCK-1043,Technical,High,Enterprise,Riya,Resolved,2026-06-05 16:00:00,,,Open,2026-06
+TCK-1811,Technical,Low,Enterprise,Sana,Pending,2026-01-16 12:00:00,2026-01-23 14:00:00,170.0,Breached,2026-01
+TCK-1955,Technical,High,Enterprise,Neha,Open,2026-01-23 03:00:00,,,Open,2026-01
+TCK-1133,Bug Report,Critical,Individual,Karan,Open,2026-03-11 14:00:00,2026-03-16 19:00:00,125.0,Breached,2026-03
+TCK-2015,Feature Request,Low,Individual,Arjun,Open,2026-07-04 04:00:00,,,Open,2026-07
+TCK-1039,Technical,High,Smb,Karan,Pending,2026-07-20 13:00:00,2026-07-29 19:00:00,222.0,Breached,2026-07
+TCK-1409,Technical,High,Enterprise,Arjun,Resolved,2026-06-08 20:00:00,2026-06-14 07:00:00,131.0,Breached,2026-06
+TCK-1359,Technical,Medium,Enterprise,Priya,Closed,2026-07-13 14:00:00,2026-07-15 09:00:00,43.0,Within SLA,2026-07
+TCK-1271,General Inquiry,Medium,Individual,Amit,Resolved,2026-04-06 12:00:00,2026-04-13 18:00:00,174.0,Breached,2026-04
+TCK-1285,Technical,High,Enterprise,Arjun,Resolved,2026-02-25 13:00:00,,,Open,2026-02
+TCK-2094,Bug Report,High,Enterprise,Priya,Pending,2026-01-26 15:00:00,2026-01-31 01:00:00,106.0,Breached,2026-01
+TCK-1167,Billing,High,Smb,Vikram,Resolved,2026-07-27 04:00:00,,,Open,2026-07
+TCK-1563,Bug Report,High,Individual,Priya,Pending,2026-01-21 22:00:00,2026-01-23 09:00:00,35.0,Within SLA,2026-01
+TCK-1072,General Inquiry,High,Smb,Amit,Open,2026-01-31 23:00:00,2026-02-02 06:00:00,31.0,Within SLA,2026-01
+TCK-1744,Billing,High,Enterprise,Riya,Resolved,2026-07-22 08:00:00,2026-07-24 06:00:00,46.0,Within SLA,2026-07
+TCK-1743,Billing,Medium,Smb,Riya,Open,2026-05-05 17:00:00,2026-05-10 06:00:00,109.0,Breached,2026-05
+TCK-1986,Technical,High,Smb,Sana,Resolved,2026-06-01 04:00:00,2026-06-08 12:00:00,176.0,Breached,2026-06
+TCK-2173,General Inquiry,High,Enterprise,Karan,Resolved,2026-05-28 07:00:00,2026-06-07 06:00:00,239.0,Breached,2026-05
+TCK-1397,Technical,Critical,Individual,Riya,Resolved,2026-01-20 23:00:00,2026-01-30 15:00:00,232.0,Breached,2026-01
+TCK-1598,Billing,Medium,Smb,Arjun,Open,2026-01-30 00:00:00,2026-02-05 00:00:00,144.0,Breached,2026-01
+TCK-1005,General Inquiry,Low,Enterprise,Sana,Resolved,2026-06-04 08:00:00,2026-06-12 03:00:00,187.0,Breached,2026-06
+TCK-1378,Technical,High,Smb,Amit,Open,2026-04-18 12:00:00,2026-04-18 22:00:00,10.0,Within SLA,2026-04
+TCK-1624,Billing,High,Enterprise,Karan,Open,2026-02-13 18:00:00,,,Open,2026-02
+TCK-1472,Technical,Critical,Smb,Karan,Open,2026-04-10 20:00:00,,,Open,2026-04
+TCK-2130,Account Access,Low,Smb,Riya,Resolved,2026-06-20 15:00:00,2026-06-20 21:00:00,6.0,Within SLA,2026-06
+TCK-1398,Account Access,High,Individual,Karan,Resolved,2026-07-28 05:00:00,2026-08-06 08:00:00,219.0,Breached,2026-07
+TCK-1386,Technical,High,Individual,Arjun,Resolved,2026-05-03 12:00:00,,,Open,2026-05
+TCK-1903,Bug Report,Low,Enterprise,Amit,Pending,2026-04-26 05:00:00,2026-05-01 15:00:00,130.0,Within SLA,2026-04
+TCK-1790,Account Access,High,Enterprise,Karan,Closed,2026-06-18 23:00:00,2026-06-24 04:00:00,125.0,Breached,2026-06
+TCK-1919,Bug Report,High,Individual,Arjun,Resolved,2026-02-08 12:00:00,2026-02-08 22:00:00,10.0,Within SLA,2026-02
+TCK-2098,Technical,High,Individual,Karan,Open,2026-02-25 00:00:00,2026-02-27 09:00:00,57.0,Breached,2026-02
+TCK-1095,Feature Request,High,Smb,Riya,Closed,2026-01-12 10:00:00,2026-01-19 23:00:00,181.0,Breached,2026-01
+TCK-1096,Billing,Low,Enterprise,Unassigned,Closed,2026-05-09 18:00:00,2026-05-10 20:00:00,26.0,Within SLA,2026-05
+TCK-1370,General Inquiry,High,Individual,Sana,Resolved,2026-05-06 19:00:00,2026-05-16 02:00:00,223.0,Breached,2026-05
+TCK-1721,Account Access,High,Enterprise,Priya,Pending,2026-03-01 13:00:00,2026-03-04 13:00:00,72.0,Breached,2026-03
+TCK-1526,Billing,Low,Smb,Priya,Pending,2026-01-09 06:00:00,,,Open,2026-01
+TCK-2071,Feature Request,High,Individual,Karan,Closed,2026-01-14 06:00:00,2026-01-22 09:00:00,195.0,Breached,2026-01
+TCK-1859,Billing,Medium,Enterprise,Amit,Resolved,2026-01-09 12:00:00,2026-01-18 14:00:00,218.0,Breached,2026-01
+TCK-1059,Account Access,High,Enterprise,Priya,Open,2026-01-13 08:00:00,2026-01-15 15:00:00,55.0,Breached,2026-01
+TCK-1925,Feature Request,Critical,Smb,Priya,Resolved,2026-07-20 15:00:00,,,Open,2026-07
+TCK-1362,Billing,High,Smb,Priya,Open,2026-05-31 18:00:00,2026-06-01 20:00:00,26.0,Within SLA,2026-05
+TCK-1368,Technical,Medium,Enterprise,Amit,Resolved,2026-07-19 16:00:00,2026-07-20 00:00:00,8.0,Within SLA,2026-07
+TCK-1025,Technical,Critical,Enterprise,Riya,Pending,2026-07-12 07:00:00,2026-07-17 12:00:00,125.0,Breached,2026-07
+TCK-1689,Account Access,High,Enterprise,Riya,Closed,2026-06-20 04:00:00,2026-06-27 23:00:00,187.0,Breached,2026-06
+TCK-1504,Account Access,Critical,Individual,Riya,Resolved,2026-05-19 07:00:00,2026-05-24 01:00:00,114.0,Breached,2026-05
+TCK-1245,Bug Report,High,Enterprise,Amit,Pending,2026-07-01 04:00:00,,,Open,2026-07
+TCK-1026,General Inquiry,High,Enterprise,Sana,Closed,2026-03-09 14:00:00,2026-03-17 01:00:00,179.0,Breached,2026-03
+TCK-1331,Bug Report,Low,Enterprise,Neha,Open,2026-02-13 18:00:00,2026-02-21 12:00:00,186.0,Breached,2026-02
+TCK-1223,General Inquiry,Critical,Enterprise,Amit,Open,2026-05-11 14:00:00,2026-05-16 11:00:00,117.0,Breached,2026-05
+TCK-1627,Feature Request,Critical,Smb,Neha,Closed,2026-02-07 19:00:00,2026-02-09 11:00:00,40.0,Breached,2026-02
+TCK-1106,Account Access,High,Smb,Riya,Open,2026-06-05 11:00:00,2026-06-07 12:00:00,49.0,Breached,2026-06
+TCK-2107,Account Access,Medium,Smb,Amit,Pending,2026-06-15 13:00:00,2026-06-20 05:00:00,112.0,Breached,2026-06
+TCK-1131,Billing,Low,Smb,Priya,Pending,2026-05-25 21:00:00,2026-05-27 10:00:00,37.0,Within SLA,2026-05
+TCK-1154,Technical,Low,Smb,Amit,Closed,2026-04-24 19:00:00,2026-05-02 19:00:00,192.0,Breached,2026-04
+TCK-1899,Account Access,Critical,Smb,Neha,Pending,2026-06-15 14:00:00,2026-06-24 14:00:00,216.0,Breached,2026-06
+TCK-2048,Billing,Low,Smb,Riya,Pending,2026-01-29 04:00:00,,,Open,2026-01
+TCK-2160,Technical,High,Smb,Neha,Open,2026-06-30 16:00:00,2026-07-01 09:00:00,17.0,Within SLA,2026-06
+TCK-1841,Billing,Critical,Individual,Priya,Open,2026-06-08 09:00:00,2026-06-10 04:00:00,43.0,Breached,2026-06
+TCK-1076,Billing,Medium,Smb,Sana,Resolved,2026-01-30 02:00:00,2026-01-30 21:00:00,19.0,Within SLA,2026-01
+TCK-1979,Billing,High,Enterprise,Neha,Resolved,2026-04-08 20:00:00,2026-04-13 03:00:00,103.0,Breached,2026-04
+TCK-2091,General Inquiry,Medium,Enterprise,Riya,Open,2026-03-03 20:00:00,2026-03-07 01:00:00,77.0,Within SLA,2026-03
+TCK-1719,Bug Report,Low,Enterprise,Priya,Pending,2026-01-04 21:00:00,2026-01-06 00:00:00,27.0,Within SLA,2026-01
+TCK-1352,General Inquiry,Critical,Smb,Riya,Pending,2026-03-02 03:00:00,,,Open,2026-03
+TCK-2022,Account Access,High,Smb,Arjun,Resolved,2026-07-30 06:00:00,2026-07-30 07:00:00,1.0,Within SLA,2026-07
+TCK-1545,Account Access,Critical,Individual,Karan,Resolved,2026-06-07 23:00:00,2026-06-10 14:00:00,63.0,Breached,2026-06
+TCK-2086,General Inquiry,High,Smb,Neha,Resolved,2026-01-09 00:00:00,,,Open,2026-01
+TCK-1200,Technical,High,Enterprise,Neha,Resolved,2026-05-02 08:00:00,2026-05-10 17:00:00,201.0,Breached,2026-05
+TCK-1896,Bug Report,Medium,Smb,Sana,Resolved,2026-02-03 06:00:00,2026-02-12 00:00:00,210.0,Breached,2026-02
+TCK-1135,Account Access,High,Individual,Amit,Pending,2026-01-15 00:00:00,2026-01-17 07:00:00,55.0,Breached,2026-01
+TCK-1390,Billing,Low,Smb,Arjun,Resolved,2026-02-28 07:00:00,2026-03-01 17:00:00,34.0,Within SLA,2026-02
+TCK-1260,General Inquiry,Medium,Enterprise,Sana,Open,2026-07-05 17:00:00,2026-07-08 08:00:00,63.0,Within SLA,2026-07
+TCK-1335,Account Access,Low,Smb,Unassigned,Open,2026-05-09 10:00:00,2026-05-11 09:00:00,47.0,Within SLA,2026-05
+TCK-1732,General Inquiry,Critical,Individual,Unassigned,Pending,2026-01-10 14:00:00,2026-01-15 03:00:00,109.0,Breached,2026-01
+TCK-1004,Account Access,Low,Enterprise,Arjun,Open,2026-06-28 13:00:00,2026-06-30 05:00:00,40.0,Within SLA,2026-06
+TCK-2090,Feature Request,Low,Smb,Arjun,Closed,2026-02-09 00:00:00,2026-02-14 20:00:00,140.0,Within SLA,2026-02
+TCK-1211,Technical,Low,Enterprise,Neha,Pending,2026-03-24 09:00:00,2026-04-03 02:00:00,233.0,Breached,2026-03
+TCK-1197,Account Access,Critical,Smb,Neha,Open,2026-01-11 01:00:00,,,Open,2026-01
+TCK-1681,Account Access,Critical,Enterprise,Riya,Open,2026-04-17 21:00:00,2026-04-19 07:00:00,34.0,Breached,2026-04
+TCK-1518,Bug Report,Low,Smb,Riya,Resolved,2026-02-09 11:00:00,2026-02-12 03:00:00,64.0,Within SLA,2026-02
+TCK-1906,Billing,Medium,Individual,Priya,Closed,2026-05-01 08:00:00,2026-05-03 04:00:00,44.0,Within SLA,2026-05
+TCK-1027,Account Access,Low,Enterprise,Neha,Resolved,2026-01-15 18:00:00,2026-01-16 10:00:00,16.0,Within SLA,2026-01
+TCK-1325,Bug Report,High,Enterprise,Karan,Resolved,2026-04-15 03:00:00,2026-04-23 09:00:00,198.0,Breached,2026-04
+TCK-2125,General Inquiry,Critical,Enterprise,Vikram,Resolved,2026-02-15 19:00:00,2026-02-22 07:00:00,156.0,Breached,2026-02
+TCK-1994,Account Access,High,Enterprise,Vikram,Resolved,2026-03-28 21:00:00,2026-04-03 16:00:00,139.0,Breached,2026-03
+TCK-2152,Account Access,High,Enterprise,Vikram,Resolved,2026-02-27 21:00:00,2026-03-01 13:00:00,40.0,Within SLA,2026-02
+TCK-2158,Billing,Low,Individual,Amit,Resolved,2026-01-08 09:00:00,2026-01-14 10:00:00,145.0,Within SLA,2026-01
+TCK-1062,Billing,Medium,Individual,Riya,Open,2026-06-29 08:00:00,2026-07-01 03:00:00,43.0,Within SLA,2026-06
+TCK-1783,Bug Report,Low,Smb,Amit,Pending,2026-06-23 07:00:00,2026-06-30 22:00:00,183.0,Breached,2026-06
+TCK-2051,Billing,High,Enterprise,Priya,Pending,2026-04-11 05:00:00,2026-04-17 05:00:00,144.0,Breached,2026-04
+TCK-2193,Technical,Low,Individual,Priya,Resolved,2026-01-04 08:00:00,2026-01-07 07:00:00,71.0,Within SLA,2026-01
+TCK-1340,Account Access,High,Smb,Arjun,Resolved,2026-01-01 10:00:00,2026-01-03 14:00:00,52.0,Breached,2026-01
+TCK-1938,Technical,Critical,Smb,Karan,Pending,2026-02-13 05:00:00,2026-02-20 18:00:00,181.0,Breached,2026-02
+TCK-1709,Technical,High,Smb,Karan,Pending,2026-02-26 04:00:00,2026-02-27 17:00:00,37.0,Within SLA,2026-02
+TCK-1664,Technical,Medium,Smb,Priya,Open,2026-05-30 15:00:00,,,Open,2026-05
+TCK-1801,Technical,Medium,Smb,Riya,Open,2026-07-23 13:00:00,2026-07-28 20:00:00,127.0,Breached,2026-07
+TCK-1419,Feature Request,High,Smb,Priya,Resolved,2026-07-14 11:00:00,2026-07-20 17:00:00,150.0,Breached,2026-07
+TCK-1672,Bug Report,Medium,Enterprise,Arjun,Pending,2026-07-11 18:00:00,,,Open,2026-07
+TCK-1505,Billing,High,Enterprise,Amit,Open,2026-05-14 04:00:00,2026-05-19 05:00:00,121.0,Breached,2026-05
+TCK-1707,Billing,Critical,Individual,Arjun,Closed,2026-04-28 02:00:00,,,Open,2026-04
+TCK-1922,Billing,Medium,Enterprise,Neha,Closed,2026-06-11 00:00:00,,,Open,2026-06
+TCK-1009,Feature Request,High,Enterprise,Arjun,Closed,2026-07-16 01:00:00,2026-07-16 10:00:00,9.0,Within SLA,2026-07
+TCK-1717,Bug Report,Low,Individual,Amit,Closed,2026-03-25 15:00:00,,,Open,2026-03
+TCK-1643,Billing,Low,Smb,Arjun,Open,2026-02-27 00:00:00,2026-03-06 09:00:00,177.0,Breached,2026-02
+TCK-2063,Technical,Low,Smb,Arjun,Open,2026-05-02 08:00:00,2026-05-07 02:00:00,114.0,Within SLA,2026-05
+TCK-1301,Feature Request,High,Enterprise,Neha,Closed,2026-01-26 04:00:00,2026-02-01 11:00:00,151.0,Breached,2026-01
+TCK-1802,Billing,Low,Individual,Vikram,Resolved,2026-03-08 11:00:00,2026-03-10 08:00:00,45.0,Within SLA,2026-03
+TCK-2115,Bug Report,Low,Smb,Neha,Resolved,2026-07-22 12:00:00,2026-07-24 08:00:00,44.0,Within SLA,2026-07
+TCK-1128,General Inquiry,Medium,Smb,Vikram,Resolved,2026-03-15 19:00:00,2026-03-16 22:00:00,27.0,Within SLA,2026-03
+TCK-1075,Bug Report,High,Smb,Sana,Pending,2026-01-27 00:00:00,2026-02-01 01:00:00,121.0,Breached,2026-01
+TCK-1586,Account Access,High,Smb,Riya,Resolved,2026-06-13 06:00:00,2026-06-16 00:00:00,66.0,Breached,2026-06
+TCK-1900,Bug Report,Critical,Smb,Karan,Pending,2026-03-05 05:00:00,2026-03-13 01:00:00,188.0,Breached,2026-03
+TCK-1058,Billing,Low,Enterprise,Amit,Closed,2026-06-09 17:00:00,,,Open,2026-06
+TCK-2047,Bug Report,Critical,Individual,Riya,Open,2026-07-10 04:00:00,2026-07-17 15:00:00,179.0,Breached,2026-07
+TCK-2017,Billing,Low,Enterprise,Vikram,Pending,2026-06-03 08:00:00,2026-06-04 18:00:00,34.0,Within SLA,2026-06
+TCK-2056,Account Access,Medium,Enterprise,Karan,Resolved,2026-05-09 06:00:00,2026-05-13 11:00:00,101.0,Breached,2026-05
+TCK-1298,Billing,High,Individual,Neha,Pending,2026-02-28 12:00:00,,,Open,2026-02
+TCK-1566,Account Access,Critical,Smb,Riya,Resolved,2026-04-14 01:00:00,2026-04-22 21:00:00,212.0,Breached,2026-04
+TCK-1218,Billing,Critical,Individual,Sana,Resolved,2026-06-17 11:00:00,2026-06-18 03:00:00,16.0,Within SLA,2026-06
+TCK-1621,General Inquiry,Low,Individual,Arjun,Resolved,2026-05-01 20:00:00,2026-05-09 00:00:00,172.0,Breached,2026-05
+TCK-1740,Account Access,Critical,Smb,Sana,Pending,2026-07-06 20:00:00,,,Open,2026-07
+TCK-1749,General Inquiry,Critical,Enterprise,Sana,Closed,2026-05-17 11:00:00,2026-05-18 16:00:00,29.0,Breached,2026-05
+TCK-1345,Billing,Critical,Smb,Karan,Closed,2026-06-04 10:00:00,2026-06-10 23:00:00,157.0,Breached,2026-06
+TCK-1579,General Inquiry,Medium,Enterprise,Arjun,Resolved,2026-02-11 21:00:00,2026-02-18 23:00:00,170.0,Breached,2026-02
+TCK-1508,Account Access,High,Smb,Priya,Closed,2026-07-15 19:00:00,2026-07-23 03:00:00,176.0,Breached,2026-07
+TCK-2157,Feature Request,High,Enterprise,Priya,Closed,2026-05-31 15:00:00,2026-06-03 14:00:00,71.0,Breached,2026-05
+TCK-1421,Account Access,Medium,Smb,Amit,Resolved,2026-06-24 08:00:00,2026-06-25 00:00:00,16.0,Within SLA,2026-06
+TCK-2114,Billing,Low,Individual,Arjun,Resolved,2026-01-02 22:00:00,2026-01-05 17:00:00,67.0,Within SLA,2026-01
+TCK-2104,Technical,Low,Smb,Arjun,Closed,2026-07-27 10:00:00,2026-07-29 10:00:00,48.0,Within SLA,2026-07
+TCK-2062,Account Access,High,Enterprise,Amit,Open,2026-03-17 05:00:00,,,Open,2026-03
+TCK-1730,Account Access,Low,Smb,Sana,Resolved,2026-04-08 03:00:00,2026-04-11 23:00:00,92.0,Within SLA,2026-04
+TCK-1889,Billing,Critical,Individual,Priya,Pending,2026-02-05 18:00:00,2026-02-09 01:00:00,79.0,Breached,2026-02
+TCK-1547,Technical,Critical,Enterprise,Vikram,Closed,2026-03-31 19:00:00,2026-04-09 09:00:00,206.0,Breached,2026-03
+TCK-1267,Technical,High,Enterprise,Karan,Pending,2026-02-05 20:00:00,2026-02-08 13:00:00,65.0,Breached,2026-02
+TCK-1007,Account Access,High,Smb,Karan,Resolved,2026-03-13 14:00:00,2026-03-17 12:00:00,94.0,Breached,2026-03
+TCK-1468,Feature Request,High,Enterprise,Sana,Open,2026-01-02 12:00:00,2026-01-09 21:00:00,177.0,Breached,2026-01
+TCK-1123,Account Access,Critical,Smb,Amit,Resolved,2026-02-02 08:00:00,2026-02-08 14:00:00,150.0,Breached,2026-02
+TCK-1666,Technical,High,Smb,Neha,Resolved,2026-02-04 03:00:00,2026-02-09 01:00:00,118.0,Breached,2026-02
+TCK-1139,General Inquiry,Low,Enterprise,Arjun,Closed,2026-04-22 03:00:00,2026-04-28 10:00:00,151.0,Within SLA,2026-04
+TCK-1164,Billing,Critical,Enterprise,Priya,Open,2026-05-15 17:00:00,2026-05-21 03:00:00,130.0,Breached,2026-05
+TCK-1762,Account Access,High,Enterprise,Priya,Closed,2026-01-31 07:00:00,2026-02-02 08:00:00,49.0,Breached,2026-01
+TCK-1993,Billing,Critical,Enterprise,Arjun,Resolved,2026-01-20 11:00:00,2026-01-25 23:00:00,132.0,Breached,2026-01
+TCK-1044,Technical,High,Enterprise,Arjun,Resolved,2026-07-26 17:00:00,2026-08-03 15:00:00,190.0,Breached,2026-07
+TCK-1795,Account Access,Low,Enterprise,Amit,Closed,2026-05-07 23:00:00,2026-05-15 19:00:00,188.0,Breached,2026-05
+TCK-1782,Feature Request,High,Enterprise,Arjun,Pending,2026-07-13 13:00:00,2026-07-20 03:00:00,158.0,Breached,2026-07
+TCK-1320,Account Access,Low,Smb,Vikram,Pending,2026-03-27 00:00:00,2026-03-31 01:00:00,97.0,Within SLA,2026-03
+TCK-1830,General Inquiry,High,Enterprise,Karan,Closed,2026-05-27 20:00:00,2026-06-04 10:00:00,182.0,Breached,2026-05
+TCK-1825,Technical,Low,Enterprise,Sana,Open,2026-03-17 15:00:00,,,Open,2026-03
+TCK-1499,Billing,Medium,Smb,Karan,Resolved,2026-06-19 08:00:00,2026-06-26 20:00:00,180.0,Breached,2026-06
+TCK-1295,Account Access,High,Smb,Sana,Closed,2026-03-12 02:00:00,2026-03-14 19:00:00,65.0,Breached,2026-03
+TCK-1559,Feature Request,Medium,Smb,Arjun,Resolved,2026-03-21 22:00:00,2026-03-27 13:00:00,135.0,Breached,2026-03
+TCK-1972,Billing,Low,Smb,Karan,Closed,2026-05-23 17:00:00,2026-05-29 09:00:00,136.0,Within SLA,2026-05
+TCK-2110,Billing,Low,Enterprise,Priya,Open,2026-05-17 16:00:00,,,Open,2026-05
+TCK-1527,Account Access,Medium,Smb,Riya,Closed,2026-05-15 19:00:00,2026-05-18 13:00:00,66.0,Within SLA,2026-05
+TCK-1020,Billing,High,Enterprise,Sana,Pending,2026-01-19 22:00:00,2026-01-22 09:00:00,59.0,Breached,2026-01
+TCK-1448,Feature Request,Low,Smb,Sana,Resolved,2026-01-05 16:00:00,2026-01-14 09:00:00,209.0,Breached,2026-01
+TCK-1519,Technical,Critical,Smb,Arjun,Pending,2026-04-02 20:00:00,2026-04-08 14:00:00,138.0,Breached,2026-04
+TCK-2000,Billing,Medium,Individual,Priya,Pending,2026-01-02 11:00:00,2026-01-10 01:00:00,182.0,Breached,2026-01
+TCK-2145,Billing,High,Smb,Amit,Resolved,2026-02-04 13:00:00,2026-02-07 19:00:00,78.0,Breached,2026-02
+TCK-2076,Feature Request,High,Smb,Amit,Closed,2026-02-07 15:00:00,2026-02-08 21:00:00,30.0,Within SLA,2026-02
+TCK-1706,General Inquiry,Low,Smb,Karan,Pending,2026-02-26 06:00:00,2026-03-04 06:00:00,144.0,Within SLA,2026-02
+TCK-1479,Account Access,High,Enterprise,Amit,Closed,2026-01-30 16:00:00,2026-02-09 01:00:00,225.0,Breached,2026-01
+TCK-1538,Billing,High,Individual,Neha,Pending,2026-05-27 12:00:00,2026-05-29 20:00:00,56.0,Breached,2026-05
+TCK-1138,Technical,Low,Enterprise,Arjun,Resolved,2026-01-30 12:00:00,,,Open,2026-01
+TCK-1447,Account Access,Medium,Smb,Karan,Resolved,2026-05-22 03:00:00,2026-05-28 15:00:00,156.0,Breached,2026-05
+TCK-1549,Bug Report,Critical,Enterprise,Vikram,Closed,2026-01-04 10:00:00,2026-01-05 15:00:00,29.0,Breached,2026-01
+TCK-1186,Account Access,High,Smb,Priya,Resolved,2026-01-11 00:00:00,,,Open,2026-01
+TCK-2167,Technical,Low,Smb,Unassigned,Resolved,2026-02-27 06:00:00,2026-03-03 22:00:00,112.0,Within SLA,2026-02
+TCK-1480,Bug Report,Low,Enterprise,Sana,Resolved,2026-07-13 10:00:00,2026-07-18 08:00:00,118.0,Within SLA,2026-07
+TCK-2180,Technical,High,Enterprise,Vikram,Closed,2026-01-31 19:00:00,2026-02-04 18:00:00,95.0,Breached,2026-01
+TCK-1726,Bug Report,Critical,Enterprise,Sana,Closed,2026-01-31 12:00:00,2026-02-09 15:00:00,219.0,Breached,2026-01
+TCK-2188,Account Access,Low,Enterprise,Priya,Pending,2026-05-31 12:00:00,2026-06-01 10:00:00,22.0,Within SLA,2026-05
+TCK-2170,Billing,Critical,Enterprise,Karan,Resolved,2026-04-01 11:00:00,2026-04-07 11:00:00,144.0,Breached,2026-04
+TCK-1880,Technical,High,Individual,Neha,Resolved,2026-04-12 06:00:00,2026-04-21 18:00:00,228.0,Breached,2026-04
+TCK-1328,Technical,Low,Enterprise,Vikram,Closed,2026-07-11 17:00:00,2026-07-16 16:00:00,119.0,Within SLA,2026-07
+TCK-1318,Technical,Critical,Individual,Amit,Closed,2026-04-05 06:00:00,2026-04-13 15:00:00,201.0,Breached,2026-04
+TCK-1871,Account Access,Low,Enterprise,Sana,Closed,2026-01-30 04:00:00,2026-02-01 06:00:00,50.0,Within SLA,2026-01
+TCK-1620,General Inquiry,High,Enterprise,Karan,Closed,2026-05-29 15:00:00,2026-05-30 12:00:00,21.0,Within SLA,2026-05
+TCK-1558,Technical,Low,Smb,Vikram,Closed,2026-06-04 10:00:00,2026-06-05 20:00:00,34.0,Within SLA,2026-06
+TCK-1637,Technical,Low,Individual,Priya,Pending,2026-06-27 21:00:00,2026-07-01 08:00:00,83.0,Within SLA,2026-06
+TCK-1829,Bug Report,High,Individual,Neha,Resolved,2026-03-01 12:00:00,2026-03-02 00:00:00,12.0,Within SLA,2026-03
+TCK-1339,Technical,Low,Smb,Unassigned,Pending,2026-03-21 05:00:00,2026-03-22 05:00:00,24.0,Within SLA,2026-03
+TCK-2073,Account Access,Medium,Smb,Priya,Pending,2026-01-14 02:00:00,2026-01-18 16:00:00,110.0,Breached,2026-01
+TCK-1997,Technical,Low,Smb,Neha,Pending,2026-04-01 00:00:00,,,Open,2026-04
+TCK-1149,Account Access,High,Enterprise,Karan,Open,2026-01-21 18:00:00,2026-01-31 13:00:00,235.0,Breached,2026-01
+TCK-1981,Feature Request,Low,Smb,Sana,Resolved,2026-07-30 04:00:00,2026-08-07 14:00:00,202.0,Breached,2026-07
+TCK-2150,Billing,High,Smb,Arjun,Resolved,2026-03-11 20:00:00,,,Open,2026-03
+TCK-2118,Billing,Medium,Enterprise,Amit,Pending,2026-06-27 02:00:00,,,Open,2026-06
+TCK-1793,Bug Report,Critical,Enterprise,Unassigned,Pending,2026-01-30 05:00:00,2026-02-07 03:00:00,190.0,Breached,2026-01
+TCK-1247,Billing,Low,Smb,Vikram,Resolved,2026-05-09 22:00:00,2026-05-18 13:00:00,207.0,Breached,2026-05
+TCK-1366,Technical,Critical,Smb,Priya,Pending,2026-03-10 23:00:00,2026-03-17 21:00:00,166.0,Breached,2026-03
+TCK-1665,Account Access,Medium,Individual,Riya,Open,2026-02-04 14:00:00,2026-02-11 08:00:00,162.0,Breached,2026-02
+TCK-1489,Account Access,High,Smb,Vikram,Pending,2026-05-21 08:00:00,2026-05-26 09:00:00,121.0,Breached,2026-05
+TCK-1878,General Inquiry,High,Enterprise,Amit,Pending,2026-05-13 14:00:00,2026-05-21 05:00:00,183.0,Breached,2026-05
+TCK-1846,Bug Report,Critical,Smb,Karan,Resolved,2026-06-22 05:00:00,2026-07-01 19:00:00,230.0,Breached,2026-06
+TCK-2133,Billing,High,Individual,Amit,Resolved,2026-03-07 21:00:00,2026-03-11 19:00:00,94.0,Breached,2026-03
+TCK-1599,Technical,Low,Individual,Arjun,Resolved,2026-02-06 22:00:00,2026-02-13 01:00:00,147.0,Within SLA,2026-02
+TCK-1233,Feature Request,Low,Individual,Priya,Closed,2026-05-23 15:00:00,,,Open,2026-05
+TCK-1791,Technical,Low,Smb,Neha,Closed,2026-02-04 00:00:00,2026-02-12 17:00:00,209.0,Breached,2026-02
+TCK-1639,General Inquiry,Critical,Smb,Karan,Pending,2026-04-11 05:00:00,2026-04-12 09:00:00,28.0,Breached,2026-04
+TCK-2155,Billing,Critical,Smb,Neha,Closed,2026-03-08 19:00:00,2026-03-17 23:00:00,220.0,Breached,2026-03
+TCK-1433,General Inquiry,Low,Enterprise,Vikram,Pending,2026-05-12 02:00:00,2026-05-13 21:00:00,43.0,Within SLA,2026-05
+TCK-1542,General Inquiry,Low,Smb,Priya,Closed,2026-06-22 23:00:00,2026-06-27 18:00:00,115.0,Within SLA,2026-06
+TCK-1962,Bug Report,High,Enterprise,Sana,Open,2026-01-06 17:00:00,2026-01-11 06:00:00,109.0,Breached,2026-01
+TCK-1159,Account Access,Medium,Smb,Amit,Closed,2026-01-08 10:00:00,2026-01-17 09:00:00,215.0,Breached,2026-01
+TCK-1316,Account Access,Low,Smb,Riya,Closed,2026-03-24 07:00:00,2026-04-01 00:00:00,185.0,Breached,2026-03
+TCK-1257,Account Access,Low,Enterprise,Unassigned,Open,2026-07-02 20:00:00,2026-07-07 00:00:00,100.0,Within SLA,2026-07
+TCK-1792,Billing,High,Enterprise,Priya,Resolved,2026-04-22 20:00:00,2026-04-28 14:00:00,138.0,Breached,2026-04
+TCK-1097,Account Access,High,Smb,Karan,Open,2026-04-15 20:00:00,2026-04-16 16:00:00,20.0,Within SLA,2026-04
+TCK-1511,Account Access,Critical,Individual,Amit,Open,2026-03-01 02:00:00,2026-03-06 09:00:00,127.0,Breached,2026-03
+TCK-1385,Technical,Low,Enterprise,Priya,Pending,2026-07-15 05:00:00,2026-07-23 09:00:00,196.0,Breached,2026-07
+TCK-1178,Account Access,High,Individual,Sana,Open,2026-07-02 14:00:00,2026-07-11 06:00:00,208.0,Breached,2026-07
+TCK-2078,Billing,High,Individual,Unassigned,Open,2026-04-07 06:00:00,2026-04-09 07:00:00,49.0,Breached,2026-04
+TCK-1329,Billing,Low,Smb,Karan,Resolved,2026-02-20 12:00:00,2026-02-27 06:00:00,162.0,Within SLA,2026-02
+TCK-1315,Technical,Low,Smb,Priya,Closed,2026-01-12 15:00:00,2026-01-22 11:00:00,236.0,Breached,2026-01
+TCK-1416,Technical,High,Enterprise,Sana,Pending,2026-04-09 13:00:00,2026-04-19 08:00:00,235.0,Breached,2026-04
+TCK-1358,Billing,Low,Smb,Neha,Resolved,2026-03-02 15:00:00,2026-03-06 21:00:00,102.0,Within SLA,2026-03
+TCK-1348,Bug Report,Low,Smb,Karan,Resolved,2026-05-07 12:00:00,2026-05-11 13:00:00,97.0,Within SLA,2026-05
+TCK-1531,Billing,High,Smb,Amit,Pending,2026-06-10 05:00:00,2026-06-16 04:00:00,143.0,Breached,2026-06
+TCK-1299,Billing,Low,Smb,Unassigned,Closed,2026-07-18 04:00:00,2026-07-25 10:00:00,174.0,Breached,2026-07
+TCK-1456,Technical,Low,Smb,Vikram,Closed,2026-01-02 16:00:00,2026-01-07 09:00:00,113.0,Within SLA,2026-01
+TCK-1857,Account Access,Medium,Enterprise,Arjun,Resolved,2026-07-26 00:00:00,2026-08-01 17:00:00,161.0,Breached,2026-07
+TCK-1842,Billing,Medium,Smb,Sana,Resolved,2026-06-11 06:00:00,2026-06-16 17:00:00,131.0,Breached,2026-06
+TCK-1818,Technical,High,Enterprise,Vikram,Resolved,2026-03-18 09:00:00,2026-03-27 02:00:00,209.0,Breached,2026-03
+TCK-1733,Feature Request,High,Smb,Amit,Resolved,2026-05-31 00:00:00,2026-06-04 01:00:00,97.0,Breached,2026-05
+TCK-1832,Technical,Medium,Smb,Arjun,Pending,2026-06-18 17:00:00,2026-06-18 22:00:00,5.0,Within SLA,2026-06
+TCK-1686,General Inquiry,High,Enterprise,Arjun,Closed,2026-02-02 14:00:00,2026-02-04 14:00:00,48.0,Within SLA,2026-02
+TCK-1250,Feature Request,High,Individual,Karan,Resolved,2026-06-13 00:00:00,2026-06-13 22:00:00,22.0,Within SLA,2026-06
+TCK-1016,Technical,Low,Smb,Karan,Resolved,2026-01-05 03:00:00,2026-01-14 12:00:00,225.0,Breached,2026-01
+TCK-2035,Billing,Low,Individual,Karan,Resolved,2026-02-13 03:00:00,2026-02-16 04:00:00,73.0,Within SLA,2026-02
+TCK-1902,Account Access,Low,Enterprise,Arjun,Pending,2026-05-07 13:00:00,2026-05-13 11:00:00,142.0,Within SLA,2026-05
+TCK-1757,Technical,Low,Enterprise,Arjun,Pending,2026-05-13 22:00:00,2026-05-22 19:00:00,213.0,Breached,2026-05
+TCK-1634,Billing,Low,Smb,Vikram,Resolved,2026-03-31 07:00:00,2026-04-03 00:00:00,65.0,Within SLA,2026-03
+TCK-1361,General Inquiry,Critical,Enterprise,Neha,Resolved,2026-03-25 08:00:00,2026-04-04 03:00:00,235.0,Breached,2026-03
+TCK-1203,Bug Report,Low,Enterprise,Neha,Pending,2026-06-30 04:00:00,2026-07-06 04:00:00,144.0,Within SLA,2026-06
+TCK-1622,Account Access,Critical,Individual,Sana,Open,2026-07-19 00:00:00,2026-07-24 12:00:00,132.0,Breached,2026-07
+TCK-1113,General Inquiry,Medium,Enterprise,Priya,Resolved,2026-03-19 15:00:00,,,Open,2026-03
+TCK-1611,Technical,Medium,Individual,Sana,Pending,2026-05-17 09:00:00,2026-05-23 13:00:00,148.0,Breached,2026-05
+TCK-1308,Account Access,Critical,Smb,Karan,Open,2026-05-11 06:00:00,2026-05-12 22:00:00,40.0,Breached,2026-05
+TCK-1659,Technical,Low,Smb,Amit,Pending,2026-07-17 20:00:00,2026-07-20 19:00:00,71.0,Within SLA,2026-07
+TCK-1423,Account Access,Low,Enterprise,Unassigned,Open,2026-04-08 12:00:00,2026-04-16 22:00:00,202.0,Breached,2026-04
+TCK-1821,Bug Report,High,Enterprise,Amit,Pending,2026-05-24 16:00:00,2026-06-03 00:00:00,224.0,Breached,2026-05
+TCK-1642,Bug Report,Critical,Enterprise,Karan,Resolved,2026-01-01 16:00:00,2026-01-09 22:00:00,198.0,Breached,2026-01
+TCK-1460,Account Access,Low,Smb,Amit,Pending,2026-04-14 19:00:00,2026-04-21 15:00:00,164.0,Within SLA,2026-04
+TCK-1663,Feature Request,Medium,Enterprise,Karan,Pending,2026-02-28 03:00:00,2026-03-01 05:00:00,26.0,Within SLA,2026-02
+TCK-1638,Technical,Critical,Enterprise,Vikram,Resolved,2026-03-27 01:00:00,2026-04-04 18:00:00,209.0,Breached,2026-03
+TCK-1450,General Inquiry,Low,Smb,Neha,Resolved,2026-04-29 16:00:00,2026-05-03 22:00:00,102.0,Within SLA,2026-04
+TCK-1674,Technical,High,Enterprise,Arjun,Resolved,2026-07-12 08:00:00,2026-07-18 21:00:00,157.0,Breached,2026-07
+TCK-1081,Technical,Low,Enterprise,Sana,Resolved,2026-01-30 17:00:00,2026-02-01 08:00:00,39.0,Within SLA,2026-01
+TCK-1669,Billing,Critical,Smb,Priya,Pending,2026-02-08 18:00:00,2026-02-13 05:00:00,107.0,Breached,2026-02
+TCK-1216,Billing,Medium,Smb,Vikram,Resolved,2026-05-12 10:00:00,,,Open,2026-05
+TCK-2059,Bug Report,Medium,Individual,Priya,Resolved,2026-05-13 23:00:00,2026-05-19 13:00:00,134.0,Breached,2026-05
+TCK-1031,General Inquiry,High,Smb,Karan,Closed,2026-05-25 03:00:00,,,Open,2026-05
+TCK-1243,Technical,High,Smb,Riya,Resolved,2026-04-28 05:00:00,2026-05-02 00:00:00,91.0,Breached,2026-04
+TCK-1667,Billing,Critical,Smb,Vikram,Resolved,2026-02-13 18:00:00,2026-02-22 21:00:00,219.0,Breached,2026-02
+TCK-1210,Technical,Critical,Enterprise,Vikram,Open,2026-06-24 04:00:00,,,Open,2026-06
+TCK-1570,General Inquiry,Medium,Enterprise,Amit,Resolved,2026-07-04 16:00:00,,,Open,2026-07
+TCK-1436,Account Access,Low,Enterprise,Riya,Resolved,2026-04-15 12:00:00,2026-04-19 20:00:00,104.0,Within SLA,2026-04
+TCK-2164,Technical,Low,Smb,Priya,Pending,2026-03-24 07:00:00,2026-04-01 22:00:00,207.0,Breached,2026-03
+TCK-2131,Bug Report,Low,Enterprise,Sana,Closed,2026-04-01 15:00:00,2026-04-06 21:00:00,126.0,Within SLA,2026-04
+TCK-1591,Account Access,High,Enterprise,Karan,Pending,2026-06-02 03:00:00,2026-06-10 04:00:00,193.0,Breached,2026-06
+TCK-1404,Feature Request,High,Smb,Priya,Closed,2026-05-13 16:00:00,2026-05-20 07:00:00,159.0,Breached,2026-05
+TCK-1917,General Inquiry,Low,Enterprise,Karan,Open,2026-04-25 12:00:00,2026-05-03 10:00:00,190.0,Breached,2026-04
+TCK-1363,Billing,Medium,Individual,Priya,Resolved,2026-04-09 20:00:00,2026-04-16 08:00:00,156.0,Breached,2026-04
+TCK-1272,Technical,High,Individual,Vikram,Resolved,2026-03-17 13:00:00,2026-03-18 11:00:00,22.0,Within SLA,2026-03
+TCK-1467,Technical,Low,Enterprise,Karan,Resolved,2026-03-14 19:00:00,2026-03-19 04:00:00,105.0,Within SLA,2026-03
+TCK-2105,Billing,High,Individual,Arjun,Closed,2026-07-19 10:00:00,2026-07-22 20:00:00,82.0,Breached,2026-07
+TCK-1807,Technical,Critical,Individual,Neha,Resolved,2026-02-21 14:00:00,2026-03-01 19:00:00,197.0,Breached,2026-02
+TCK-1278,Technical,High,Individual,Karan,Closed,2026-01-30 11:00:00,2026-02-04 09:00:00,118.0,Breached,2026-01
+TCK-2103,General Inquiry,High,Enterprise,Unassigned,Closed,2026-03-06 18:00:00,2026-03-13 05:00:00,155.0,Breached,2026-03
+TCK-2181,General Inquiry,Low,Enterprise,Riya,Closed,2026-01-24 18:00:00,,,Open,2026-01
+TCK-1652,Feature Request,High,Enterprise,Neha,Open,2026-07-25 06:00:00,2026-08-02 22:00:00,208.0,Breached,2026-07
+TCK-1725,General Inquiry,High,Smb,Riya,Pending,2026-03-17 21:00:00,2026-03-23 07:00:00,130.0,Breached,2026-03
+TCK-1443,Bug Report,High,Individual,Vikram,Resolved,2026-06-21 02:00:00,2026-06-23 05:00:00,51.0,Breached,2026-06
+TCK-1300,Technical,Critical,Smb,Vikram,Resolved,2026-04-23 11:00:00,2026-04-30 04:00:00,161.0,Breached,2026-04
+TCK-1376,Account Access,Medium,Smb,Vikram,Resolved,2026-03-12 08:00:00,2026-03-21 21:00:00,229.0,Breached,2026-03
+TCK-2057,Bug Report,Low,Enterprise,Neha,Pending,2026-07-26 04:00:00,,,Open,2026-07
+TCK-1834,General Inquiry,Medium,Individual,Sana,Resolved,2026-03-07 02:00:00,,,Open,2026-03
+TCK-1877,Billing,Medium,Smb,Arjun,Pending,2026-07-06 02:00:00,2026-07-14 13:00:00,203.0,Breached,2026-07
+TCK-1473,Feature Request,Critical,Smb,Sana,Resolved,2026-02-26 11:00:00,,,Open,2026-02
+TCK-2124,Feature Request,High,Enterprise,Vikram,Pending,2026-03-11 11:00:00,,,Open,2026-03
+TCK-1389,Account Access,Medium,Smb,Priya,Resolved,2026-06-25 04:00:00,2026-07-04 19:00:00,231.0,Breached,2026-06
+TCK-1023,Technical,Medium,Smb,Neha,Pending,2026-04-14 23:00:00,2026-04-24 04:00:00,221.0,Breached,2026-04
+TCK-1565,Bug Report,High,Individual,Vikram,Pending,2026-07-13 06:00:00,,,Open,2026-07
+TCK-1946,General Inquiry,Critical,Smb,Unassigned,Open,2026-04-05 14:00:00,2026-04-12 15:00:00,169.0,Breached,2026-04
+TCK-1424,Technical,High,Individual,Vikram,Closed,2026-02-21 19:00:00,2026-03-03 00:00:00,221.0,Breached,2026-02
+TCK-2113,Feature Request,Medium,Smb,Arjun,Resolved,2026-01-03 04:00:00,,,Open,2026-01
+TCK-1772,Billing,Critical,Individual,Amit,Pending,2026-02-11 22:00:00,2026-02-13 04:00:00,30.0,Breached,2026-02
+TCK-1700,Account Access,Low,Enterprise,Sana,Pending,2026-01-08 03:00:00,2026-01-13 10:00:00,127.0,Within SLA,2026-01
+TCK-1143,Account Access,High,Smb,Karan,Open,2026-02-08 14:00:00,,,Open,2026-02
+TCK-1051,Technical,Critical,Smb,Arjun,Pending,2026-05-23 07:00:00,2026-05-24 15:00:00,32.0,Breached,2026-05
+TCK-1723,Bug Report,High,Enterprise,Priya,Resolved,2026-01-26 23:00:00,,,Open,2026-01
+TCK-1789,Billing,Low,Smb,Amit,Pending,2026-04-22 17:00:00,,,Open,2026-04
+TCK-1082,Bug Report,High,Individual,Sana,Resolved,2026-07-11 18:00:00,2026-07-16 11:00:00,113.0,Breached,2026-07
+TCK-1483,Technical,Critical,Smb,Vikram,Open,2026-04-01 06:00:00,2026-04-04 03:00:00,69.0,Breached,2026-04
+TCK-1322,General Inquiry,Medium,Enterprise,Riya,Pending,2026-04-28 23:00:00,,,Open,2026-04
+TCK-1199,Billing,Critical,Smb,Riya,Resolved,2026-03-18 15:00:00,2026-03-22 14:00:00,95.0,Breached,2026-03
+TCK-1747,Account Access,Low,Enterprise,Vikram,Pending,2026-01-24 07:00:00,2026-02-01 13:00:00,198.0,Breached,2026-01
+TCK-2184,Technical,Critical,Individual,Sana,Closed,2026-05-20 06:00:00,2026-05-28 03:00:00,189.0,Breached,2026-05
+TCK-1067,Bug Report,Low,Smb,Arjun,Resolved,2026-03-04 02:00:00,2026-03-08 22:00:00,116.0,Within SLA,2026-03
+TCK-1996,Account Access,Low,Enterprise,Neha,Pending,2026-04-02 00:00:00,2026-04-05 13:00:00,85.0,Within SLA,2026-04
+TCK-1610,Technical,Low,Enterprise,Neha,Pending,2026-05-07 20:00:00,2026-05-08 20:00:00,24.0,Within SLA,2026-05
+TCK-1800,Bug Report,Medium,Smb,Amit,Resolved,2026-02-23 09:00:00,2026-02-24 08:00:00,23.0,Within SLA,2026-02
+TCK-1418,Technical,High,Smb,Arjun,Resolved,2026-02-23 19:00:00,2026-03-03 03:00:00,176.0,Breached,2026-02
+TCK-1770,Account Access,High,Enterprise,Neha,Resolved,2026-06-06 08:00:00,2026-06-11 00:00:00,112.0,Breached,2026-06
+TCK-1065,Bug Report,Low,Enterprise,Amit,Closed,2026-05-10 20:00:00,2026-05-19 22:00:00,218.0,Breached,2026-05
+TCK-2088,Billing,High,Smb,Priya,Open,2026-04-14 10:00:00,2026-04-19 02:00:00,112.0,Breached,2026-04
+TCK-1971,General Inquiry,Medium,Enterprise,Riya,Pending,2026-05-27 04:00:00,,,Open,2026-05
+TCK-1756,Account Access,High,Smb,Neha,Closed,2026-07-22 20:00:00,2026-07-27 03:00:00,103.0,Breached,2026-07
+TCK-1492,General Inquiry,Low,Individual,Sana,Open,2026-07-26 00:00:00,2026-07-31 08:00:00,128.0,Within SLA,2026-07
+TCK-1761,Billing,High,Smb,Amit,Pending,2026-01-23 11:00:00,2026-01-29 13:00:00,146.0,Breached,2026-01
+TCK-1858,Bug Report,Low,Enterprise,Karan,Resolved,2026-07-30 10:00:00,2026-08-01 23:00:00,61.0,Within SLA,2026-07
+TCK-2043,Account Access,Critical,Smb,Priya,Closed,2026-03-31 11:00:00,2026-04-09 17:00:00,222.0,Breached,2026-03
+TCK-1619,Billing,Low,Smb,Arjun,Resolved,2026-03-10 13:00:00,2026-03-16 17:00:00,148.0,Within SLA,2026-03
+TCK-2038,Bug Report,High,Enterprise,Karan,Resolved,2026-02-08 20:00:00,2026-02-10 10:00:00,38.0,Within SLA,2026-02
+TCK-1297,Account Access,Low,Enterprise,Amit,Resolved,2026-06-24 14:00:00,,,Open,2026-06
+TCK-1592,General Inquiry,High,Smb,Riya,Closed,2026-03-02 11:00:00,2026-03-05 17:00:00,78.0,Breached,2026-03
+TCK-1420,Billing,High,Enterprise,Neha,Open,2026-05-14 03:00:00,,,Open,2026-05
+TCK-1439,Account Access,High,Smb,Arjun,Resolved,2026-07-11 12:00:00,2026-07-20 14:00:00,218.0,Breached,2026-07
+TCK-1262,Technical,Critical,Enterprise,Riya,Pending,2026-03-06 07:00:00,2026-03-11 14:00:00,127.0,Breached,2026-03
+TCK-2077,Billing,Medium,Smb,Neha,Resolved,2026-06-12 14:00:00,2026-06-18 19:00:00,149.0,Breached,2026-06
+TCK-1282,Bug Report,Critical,Enterprise,Karan,Resolved,2026-05-24 16:00:00,2026-05-29 01:00:00,105.0,Breached,2026-05
+TCK-1738,General Inquiry,Medium,Enterprise,Neha,Resolved,2026-04-17 12:00:00,2026-04-23 00:00:00,132.0,Breached,2026-04
+TCK-1735,General Inquiry,Medium,Individual,Sana,Resolved,2026-05-08 20:00:00,2026-05-17 06:00:00,202.0,Breached,2026-05
+TCK-1189,Feature Request,Medium,Individual,Karan,Open,2026-07-03 10:00:00,2026-07-12 15:00:00,221.0,Breached,2026-07
+TCK-2029,Billing,Critical,Enterprise,Unassigned,Resolved,2026-07-05 16:00:00,2026-07-13 17:00:00,193.0,Breached,2026-07
+TCK-1252,Billing,Medium,Smb,Priya,Resolved,2026-05-25 21:00:00,,,Open,2026-05
+TCK-1813,Bug Report,High,Individual,Priya,Closed,2026-04-25 20:00:00,2026-05-01 16:00:00,140.0,Breached,2026-04
+TCK-1755,Account Access,Critical,Enterprise,Neha,Pending,2026-04-18 19:00:00,2026-04-24 16:00:00,141.0,Breached,2026-04
+TCK-1515,Technical,High,Enterprise,Karan,Open,2026-04-10 21:00:00,2026-04-20 21:00:00,240.0,Breached,2026-04
+TCK-1645,Billing,Critical,Smb,Priya,Resolved,2026-04-28 09:00:00,2026-04-30 07:00:00,46.0,Breached,2026-04
+TCK-1488,Feature Request,Low,Enterprise,Sana,Closed,2026-06-26 00:00:00,,,Open,2026-06
+TCK-1274,Technical,Low,Smb,Arjun,Resolved,2026-03-29 20:00:00,,,Open,2026-03
+TCK-2027,Technical,High,Individual,Unassigned,Closed,2026-07-28 05:00:00,2026-08-02 11:00:00,126.0,Breached,2026-07
+TCK-2117,Account Access,High,Enterprise,Vikram,Closed,2026-03-24 23:00:00,2026-03-25 23:00:00,24.0,Within SLA,2026-03
+TCK-1449,Feature Request,Medium,Smb,Sana,Closed,2026-05-19 15:00:00,2026-05-21 06:00:00,39.0,Within SLA,2026-05
+TCK-1412,Feature Request,Low,Individual,Vikram,Resolved,2026-02-12 15:00:00,2026-02-20 07:00:00,184.0,Breached,2026-02
+TCK-2194,Billing,Low,Individual,Arjun,Open,2026-06-07 08:00:00,2026-06-14 09:00:00,169.0,Breached,2026-06
+TCK-1779,Billing,Low,Smb,Priya,Open,2026-04-13 08:00:00,2026-04-21 14:00:00,198.0,Breached,2026-04
+TCK-2089,Billing,Low,Enterprise,Unassigned,Resolved,2026-05-22 05:00:00,2026-05-24 10:00:00,53.0,Within SLA,2026-05
+TCK-2023,Account Access,High,Enterprise,Riya,Open,2026-06-30 17:00:00,2026-07-02 04:00:00,35.0,Within SLA,2026-06
+TCK-1150,General Inquiry,Low,Enterprise,Riya,Open,2026-05-24 12:00:00,2026-05-28 01:00:00,85.0,Within SLA,2026-05
+TCK-1219,Technical,Critical,Smb,Arjun,Pending,2026-06-13 09:00:00,2026-06-15 18:00:00,57.0,Breached,2026-06
+TCK-1780,Feature Request,High,Individual,Neha,Open,2026-06-15 20:00:00,2026-06-19 01:00:00,77.0,Breached,2026-06
+TCK-1193,Bug Report,Low,Enterprise,Riya,Resolved,2026-05-30 11:00:00,,,Open,2026-05
+TCK-1192,Billing,Low,Enterprise,Vikram,Closed,2026-05-12 14:00:00,2026-05-15 21:00:00,79.0,Within SLA,2026-05
+TCK-1636,Billing,High,Enterprise,Sana,Pending,2026-06-28 05:00:00,2026-07-03 05:00:00,120.0,Breached,2026-06
+TCK-1651,Billing,Critical,Smb,Vikram,Resolved,2026-06-06 05:00:00,2026-06-06 22:00:00,17.0,Within SLA,2026-06
+TCK-2175,Billing,Medium,Enterprise,Riya,Open,2026-02-22 17:00:00,2026-02-26 06:00:00,85.0,Within SLA,2026-02
+TCK-1975,Feature Request,High,Enterprise,Riya,Resolved,2026-02-01 16:00:00,2026-02-07 12:00:00,140.0,Breached,2026-02
+TCK-1650,Billing,Medium,Enterprise,Karan,Pending,2026-06-08 01:00:00,2026-06-15 00:00:00,167.0,Breached,2026-06
+TCK-2014,Account Access,High,Enterprise,Vikram,Resolved,2026-06-30 14:00:00,2026-07-01 10:00:00,20.0,Within SLA,2026-06
+TCK-1769,Account Access,High,Individual,Sana,Open,2026-03-08 03:00:00,2026-03-09 12:00:00,33.0,Within SLA,2026-03
+TCK-1583,Account Access,Medium,Smb,Amit,Pending,2026-06-05 10:00:00,2026-06-11 14:00:00,148.0,Breached,2026-06
+TCK-1628,Account Access,Low,Enterprise,Priya,Pending,2026-05-28 23:00:00,2026-05-29 13:00:00,14.0,Within SLA,2026-05
+TCK-2153,General Inquiry,Low,Smb,Amit,Resolved,2026-01-18 00:00:00,2026-01-27 10:00:00,226.0,Breached,2026-01
+TCK-1324,Billing,Medium,Enterprise,Amit,Open,2026-01-20 06:00:00,2026-01-28 12:00:00,198.0,Breached,2026-01
+TCK-2075,Technical,High,Individual,Unassigned,Pending,2026-07-20 19:00:00,2026-07-28 13:00:00,186.0,Breached,2026-07
+TCK-1632,Technical,High,Smb,Arjun,Closed,2026-06-17 18:00:00,2026-06-26 00:00:00,198.0,Breached,2026-06
+TCK-1930,Feature Request,Low,Smb,Priya,Open,2026-01-19 13:00:00,2026-01-29 09:00:00,236.0,Breached,2026-01
+TCK-1715,Technical,High,Enterprise,Vikram,Pending,2026-06-28 18:00:00,2026-07-05 23:00:00,173.0,Breached,2026-06
+TCK-1438,Feature Request,High,Enterprise,Vikram,Closed,2026-01-23 09:00:00,2026-01-28 02:00:00,113.0,Breached,2026-01
+TCK-1875,Feature Request,High,Smb,Vikram,Resolved,2026-02-19 17:00:00,2026-02-23 17:00:00,96.0,Breached,2026-02
+TCK-2092,Billing,Low,Enterprise,Karan,Resolved,2026-01-22 04:00:00,2026-01-29 00:00:00,164.0,Within SLA,2026-01
+TCK-1342,Technical,High,Enterprise,Amit,Open,2026-05-31 03:00:00,2026-06-03 14:00:00,83.0,Breached,2026-05
+TCK-1003,Bug Report,Low,Individual,Riya,Closed,2026-07-03 20:00:00,2026-07-08 08:00:00,108.0,Within SLA,2026-07
+TCK-1230,Billing,Critical,Enterprise,Vikram,Resolved,2026-06-03 21:00:00,2026-06-04 10:00:00,13.0,Within SLA,2026-06
+TCK-1703,General Inquiry,Medium,Smb,Neha,Resolved,2026-03-16 09:00:00,2026-03-26 09:00:00,240.0,Breached,2026-03
+TCK-2200,Technical,Medium,Individual,Priya,Resolved,2026-01-20 16:00:00,2026-01-26 03:00:00,131.0,Breached,2026-01
+TCK-1077,Technical,Low,Enterprise,Amit,Open,2026-03-05 03:00:00,2026-03-09 14:00:00,107.0,Within SLA,2026-03
+TCK-2191,Billing,Low,Smb,Sana,Resolved,2026-07-05 19:00:00,2026-07-10 09:00:00,110.0,Within SLA,2026-07
+TCK-1372,Billing,Critical,Smb,Riya,Closed,2026-05-12 00:00:00,2026-05-20 05:00:00,197.0,Breached,2026-05
+TCK-1181,General Inquiry,Critical,Enterprise,Karan,Closed,2026-03-21 12:00:00,2026-03-29 05:00:00,185.0,Breached,2026-03
+TCK-2065,Billing,Low,Enterprise,Vikram,Resolved,2026-01-22 21:00:00,2026-01-27 17:00:00,116.0,Within SLA,2026-01
+TCK-1578,Account Access,High,Enterprise,Priya,Closed,2026-02-07 01:00:00,2026-02-16 00:00:00,215.0,Breached,2026-02
+TCK-1798,General Inquiry,Medium,Smb,Arjun,Resolved,2026-07-05 06:00:00,2026-07-09 23:00:00,113.0,Breached,2026-07
+TCK-2064,Technical,Critical,Individual,Arjun,Open,2026-04-13 13:00:00,2026-04-23 08:00:00,235.0,Breached,2026-04
+TCK-2055,Billing,High,Enterprise,Sana,Pending,2026-07-22 15:00:00,,,Open,2026-07
+TCK-1704,Account Access,High,Individual,Arjun,Closed,2026-03-24 10:00:00,2026-03-31 18:00:00,176.0,Breached,2026-03
+TCK-1590,Feature Request,High,Smb,Priya,Closed,2026-01-17 04:00:00,2026-01-17 12:00:00,8.0,Within SLA,2026-01
+TCK-1839,Feature Request,Critical,Enterprise,Vikram,Closed,2026-07-15 17:00:00,2026-07-17 02:00:00,33.0,Breached,2026-07
+TCK-1888,Feature Request,Medium,Enterprise,Riya,Open,2026-03-29 02:00:00,2026-03-31 03:00:00,49.0,Within SLA,2026-03
+TCK-1312,General Inquiry,Low,Individual,Karan,Pending,2026-07-17 00:00:00,2026-07-21 14:00:00,110.0,Within SLA,2026-07
+TCK-2003,Technical,Low,Individual,Riya,Pending,2026-02-02 04:00:00,2026-02-02 08:00:00,4.0,Within SLA,2026-02
+TCK-1038,Technical,Medium,Enterprise,Unassigned,Open,2026-04-15 19:00:00,2026-04-25 16:00:00,237.0,Breached,2026-04
+TCK-1354,Account Access,Critical,Enterprise,Sana,Resolved,2026-06-13 09:00:00,2026-06-18 11:00:00,122.0,Breached,2026-06
+TCK-2140,Technical,High,Smb,Amit,Open,2026-07-24 09:00:00,,,Open,2026-07
+TCK-1237,General Inquiry,Medium,Enterprise,Arjun,Open,2026-06-04 01:00:00,2026-06-06 02:00:00,49.0,Within SLA,2026-06
+TCK-2032,General Inquiry,High,Individual,Karan,Resolved,2026-03-20 10:00:00,2026-03-23 01:00:00,63.0,Breached,2026-03
+TCK-2016,Billing,Critical,Enterprise,Riya,Closed,2026-04-25 20:00:00,2026-05-05 14:00:00,234.0,Breached,2026-04
+TCK-1500,General Inquiry,Low,Enterprise,Neha,Resolved,2026-05-02 17:00:00,,,Open,2026-05
+TCK-1554,Technical,Low,Individual,Priya,Closed,2026-04-28 17:00:00,2026-04-28 23:00:00,6.0,Within SLA,2026-04
+TCK-1056,General Inquiry,High,Smb,Vikram,Pending,2026-01-02 11:00:00,2026-01-06 15:00:00,100.0,Breached,2026-01
+TCK-1303,Account Access,High,Enterprise,Vikram,Pending,2026-05-13 19:00:00,2026-05-21 19:00:00,192.0,Breached,2026-05
+TCK-1287,Account Access,Low,Individual,Neha,Open,2026-02-05 06:00:00,2026-02-13 21:00:00,207.0,Breached,2026-02
+TCK-1872,Technical,Medium,Smb,Unassigned,Open,2026-02-26 08:00:00,2026-03-01 23:00:00,87.0,Within SLA,2026-02
+TCK-1220,Technical,Medium,Smb,Karan,Resolved,2026-06-29 17:00:00,2026-07-07 19:00:00,194.0,Breached,2026-06
+TCK-1692,Feature Request,Medium,Enterprise,Riya,Open,2026-04-25 21:00:00,2026-04-26 20:00:00,23.0,Within SLA,2026-04
+TCK-1388,Account Access,High,Enterprise,Arjun,Pending,2026-05-09 18:00:00,2026-05-10 11:00:00,17.0,Within SLA,2026-05
+TCK-1799,Feature Request,Critical,Individual,Neha,Resolved,2026-07-03 21:00:00,2026-07-13 08:00:00,227.0,Breached,2026-07
+TCK-1391,Billing,Low,Enterprise,Riya,Resolved,2026-04-07 20:00:00,2026-04-13 13:00:00,137.0,Within SLA,2026-04
+TCK-1353,Bug Report,Medium,Enterprise,Unassigned,Closed,2026-01-23 09:00:00,2026-01-30 02:00:00,161.0,Breached,2026-01
+TCK-1194,Feature Request,High,Enterprise,Vikram,Open,2026-04-21 04:00:00,2026-04-28 23:00:00,187.0,Breached,2026-04
+TCK-1236,Billing,Low,Smb,Priya,Resolved,2026-06-15 02:00:00,2026-06-24 03:00:00,217.0,Breached,2026-06
+TCK-2052,Technical,High,Enterprise,Arjun,Resolved,2026-02-12 01:00:00,2026-02-18 23:00:00,166.0,Breached,2026-02
+TCK-1568,Account Access,Critical,Enterprise,Sana,Pending,2026-04-10 16:00:00,2026-04-11 05:00:00,13.0,Within SLA,2026-04
+TCK-1117,Technical,Low,Smb,Vikram,Closed,2026-07-21 10:00:00,2026-07-22 19:00:00,33.0,Within SLA,2026-07
+TCK-1136,General Inquiry,Low,Individual,Riya,Pending,2026-02-14 04:00:00,2026-02-21 17:00:00,181.0,Breached,2026-02
+TCK-1654,Billing,Medium,Enterprise,Priya,Closed,2026-06-28 11:00:00,2026-07-03 04:00:00,113.0,Breached,2026-06
+TCK-2144,Account Access,Low,Smb,Vikram,Open,2026-03-19 19:00:00,2026-03-25 20:00:00,145.0,Within SLA,2026-03
+TCK-2151,Billing,High,Smb,Amit,Closed,2026-02-01 23:00:00,2026-02-07 10:00:00,131.0,Breached,2026-02
+TCK-1831,General Inquiry,Medium,Enterprise,Riya,Resolved,2026-06-08 17:00:00,2026-06-09 07:00:00,14.0,Within SLA,2026-06
+TCK-1844,Account Access,Medium,Individual,Amit,Resolved,2026-06-12 08:00:00,2026-06-19 22:00:00,182.0,Breached,2026-06
+TCK-1121,General Inquiry,High,Enterprise,Riya,Resolved,2026-01-12 23:00:00,2026-01-22 05:00:00,222.0,Breached,2026-01
+TCK-1921,Technical,Low,Enterprise,Neha,Pending,2026-01-14 21:00:00,2026-01-23 11:00:00,206.0,Breached,2026-01
+TCK-2061,General Inquiry,Low,Enterprise,Arjun,Closed,2026-07-26 00:00:00,2026-08-04 07:00:00,223.0,Breached,2026-07
+TCK-1840,General Inquiry,Critical,Smb,Riya,Pending,2026-04-06 17:00:00,2026-04-15 02:00:00,201.0,Breached,2026-04
+TCK-1063,Technical,Low,Smb,Vikram,Resolved,2026-05-28 21:00:00,2026-06-01 22:00:00,97.0,Within SLA,2026-05
+TCK-1936,Account Access,High,Smb,Priya,Open,2026-06-12 18:00:00,2026-06-16 11:00:00,89.0,Breached,2026-06
+TCK-1454,Feature Request,High,Smb,Karan,Resolved,2026-05-29 17:00:00,2026-06-02 18:00:00,97.0,Breached,2026-05
+TCK-1516,Technical,Low,Smb,Arjun,Resolved,2026-05-04 20:00:00,2026-05-08 17:00:00,93.0,Within SLA,2026-05
+TCK-1571,Bug Report,Low,Individual,Neha,Resolved,2026-02-15 14:00:00,2026-02-23 05:00:00,183.0,Breached,2026-02
+TCK-1224,Technical,Low,Enterprise,Arjun,Resolved,2026-07-05 00:00:00,2026-07-13 18:00:00,210.0,Breached,2026-07
+TCK-1614,Feature Request,Critical,Enterprise,Vikram,Closed,2026-06-29 18:00:00,2026-07-03 04:00:00,82.0,Breached,2026-06
+TCK-1222,Bug Report,Low,Smb,Amit,Resolved,2026-05-18 04:00:00,2026-05-27 07:00:00,219.0,Breached,2026-05
+TCK-1944,Feature Request,Low,Enterprise,Arjun,Resolved,2026-07-29 07:00:00,2026-08-05 10:00:00,171.0,Breached,2026-07
+TCK-1863,Technical,High,Smb,Priya,Pending,2026-01-04 19:00:00,2026-01-11 03:00:00,152.0,Breached,2026-01
+TCK-1466,Billing,Critical,Smb,Vikram,Resolved,2026-05-31 23:00:00,2026-06-09 22:00:00,215.0,Breached,2026-05
+TCK-1053,Bug Report,Low,Individual,Arjun,Open,2026-07-16 16:00:00,2026-07-19 06:00:00,62.0,Within SLA,2026-07
+TCK-2138,Account Access,Low,Enterprise,Neha,Pending,2026-02-01 13:00:00,2026-02-07 15:00:00,146.0,Within SLA,2026-02
+TCK-1486,Technical,Low,Smb,Amit,Resolved,2026-02-16 16:00:00,2026-02-19 01:00:00,57.0,Within SLA,2026-02
+TCK-2186,Technical,High,Smb,Arjun,Closed,2026-01-21 06:00:00,2026-01-30 06:00:00,216.0,Breached,2026-01
+TCK-2134,Technical,Critical,Smb,Neha,Open,2026-03-11 21:00:00,2026-03-18 17:00:00,164.0,Breached,2026-03
+TCK-1156,Bug Report,High,Smb,Karan,Open,2026-07-25 19:00:00,2026-07-28 12:00:00,65.0,Breached,2026-07
+TCK-1999,Bug Report,High,Enterprise,Arjun,Pending,2026-04-20 05:00:00,2026-04-23 02:00:00,69.0,Breached,2026-04
+TCK-1601,Bug Report,Low,Individual,Vikram,Resolved,2026-02-15 22:00:00,2026-02-22 06:00:00,152.0,Within SLA,2026-02
+TCK-1957,Technical,Low,Enterprise,Unassigned,Pending,2026-07-24 21:00:00,2026-07-26 06:00:00,33.0,Within SLA,2026-07
+TCK-1249,Billing,Low,Enterprise,Amit,Resolved,2026-03-18 21:00:00,2026-03-19 18:00:00,21.0,Within SLA,2026-03
+TCK-1442,Billing,Low,Enterprise,Karan,Open,2026-06-07 08:00:00,2026-06-09 07:00:00,47.0,Within SLA,2026-06
+TCK-2128,Billing,Low,Smb,Amit,Open,2026-03-30 20:00:00,2026-04-06 05:00:00,153.0,Within SLA,2026-03
+TCK-2141,Billing,High,Smb,Sana,Resolved,2026-01-02 13:00:00,2026-01-11 11:00:00,214.0,Breached,2026-01
+TCK-1543,Billing,Low,Enterprise,Priya,Resolved,2026-02-03 10:00:00,,,Open,2026-02
+TCK-1702,Account Access,High,Enterprise,Arjun,Resolved,2026-04-29 22:00:00,2026-05-01 16:00:00,42.0,Within SLA,2026-04
+TCK-1118,Account Access,Medium,Smb,Neha,Resolved,2026-03-26 04:00:00,2026-04-01 13:00:00,153.0,Breached,2026-03
+TCK-1786,Billing,Low,Enterprise,Neha,Pending,2026-03-07 18:00:00,,,Open,2026-03
+TCK-1629,Technical,Critical,Enterprise,Neha,Resolved,2026-03-19 15:00:00,2026-03-27 16:00:00,193.0,Breached,2026-03
+TCK-1774,Technical,Low,Enterprise,Neha,Pending,2026-02-13 23:00:00,2026-02-16 21:00:00,70.0,Within SLA,2026-02
+TCK-2195,Bug Report,Low,Individual,Vikram,Pending,2026-02-15 14:00:00,2026-02-20 07:00:00,113.0,Within SLA,2026-02
+TCK-1292,Bug Report,High,Individual,Arjun,Resolved,2026-07-23 17:00:00,2026-07-28 07:00:00,110.0,Breached,2026-07
+TCK-1382,Feature Request,Low,Individual,Neha,Closed,2026-02-19 16:00:00,,,Open,2026-02
+TCK-1759,Technical,Low,Enterprise,Vikram,Resolved,2026-04-11 12:00:00,2026-04-20 23:00:00,227.0,Breached,2026-04
+TCK-1887,Technical,Low,Smb,Amit,Pending,2026-02-28 07:00:00,2026-03-02 13:00:00,54.0,Within SLA,2026-02
+TCK-1201,Technical,High,Smb,Karan,Closed,2026-06-11 23:00:00,2026-06-20 23:00:00,216.0,Breached,2026-06
+TCK-1597,Bug Report,High,Enterprise,Neha,Open,2026-02-21 06:00:00,2026-02-26 23:00:00,137.0,Breached,2026-02
+TCK-2046,Billing,Low,Enterprise,Neha,Pending,2026-04-04 04:00:00,,,Open,2026-04
+TCK-2183,Feature Request,Critical,Enterprise,Karan,Open,2026-06-17 07:00:00,2026-06-18 17:00:00,34.0,Breached,2026-06
+TCK-1752,Account Access,Low,Smb,Neha,Pending,2026-04-10 00:00:00,2026-04-14 05:00:00,101.0,Within SLA,2026-04
+TCK-2054,Technical,High,Enterprise,Riya,Resolved,2026-02-18 17:00:00,2026-02-28 15:00:00,238.0,Breached,2026-02
+TCK-1506,Billing,Low,Individual,Priya,Pending,2026-01-03 13:00:00,2026-01-09 22:00:00,153.0,Within SLA,2026-01
+TCK-1349,Account Access,Medium,Enterprise,Karan,Resolved,2026-03-17 00:00:00,2026-03-18 03:00:00,27.0,Within SLA,2026-03
+TCK-2006,Technical,Medium,Enterprise,Riya,Open,2026-06-06 05:00:00,2026-06-15 08:00:00,219.0,Breached,2026-06
+TCK-1341,Billing,Low,Individual,Arjun,Pending,2026-01-06 04:00:00,2026-01-15 23:00:00,235.0,Breached,2026-01
+TCK-1616,Bug Report,High,Enterprise,Neha,Resolved,2026-01-03 02:00:00,2026-01-04 15:00:00,37.0,Within SLA,2026-01
+TCK-1155,Account Access,Critical,Smb,Neha,Closed,2026-04-05 21:00:00,2026-04-10 14:00:00,113.0,Breached,2026-04
+TCK-2149,Bug Report,Low,Enterprise,Karan,Resolved,2026-07-13 12:00:00,2026-07-20 16:00:00,172.0,Breached,2026-07
+TCK-2171,Billing,Critical,Smb,Arjun,Resolved,2026-01-21 04:00:00,2026-01-24 09:00:00,77.0,Breached,2026-01
+TCK-1078,Billing,Medium,Smb,Karan,Closed,2026-05-31 13:00:00,2026-06-07 04:00:00,159.0,Breached,2026-05
+TCK-1288,Billing,Medium,Enterprise,Sana,Closed,2026-06-30 09:00:00,2026-07-03 06:00:00,69.0,Within SLA,2026-06
+TCK-1323,Feature Request,High,Individual,Sana,Closed,2026-06-19 04:00:00,2026-06-21 23:00:00,67.0,Breached,2026-06
+TCK-1964,Bug Report,High,Smb,Vikram,Resolved,2026-04-28 20:00:00,2026-04-30 08:00:00,36.0,Within SLA,2026-04
+TCK-1894,Bug Report,Low,Individual,Neha,Open,2026-02-22 07:00:00,2026-02-27 22:00:00,135.0,Within SLA,2026-02
+TCK-1867,Billing,High,Smb,Amit,Resolved,2026-03-30 06:00:00,2026-04-06 02:00:00,164.0,Breached,2026-03
+TCK-1083,Feature Request,High,Individual,Riya,Resolved,2026-05-19 15:00:00,2026-05-26 01:00:00,154.0,Breached,2026-05
+TCK-1861,Billing,Critical,Enterprise,Priya,Resolved,2026-01-25 19:00:00,2026-01-28 07:00:00,60.0,Breached,2026-01
+TCK-1465,Feature Request,Medium,Enterprise,Priya,Open,2026-04-18 11:00:00,2026-04-25 22:00:00,179.0,Breached,2026-04
+TCK-1991,Billing,High,Enterprise,Arjun,Closed,2026-01-04 19:00:00,2026-01-13 16:00:00,213.0,Breached,2026-01
+TCK-1973,Technical,Low,Smb,Arjun,Resolved,2026-06-18 03:00:00,2026-06-24 13:00:00,154.0,Within SLA,2026-06
+TCK-1838,Technical,Low,Individual,Karan,Closed,2026-04-15 02:00:00,2026-04-19 11:00:00,105.0,Within SLA,2026-04
+TCK-1334,Account Access,Critical,Smb,Arjun,Resolved,2026-07-23 00:00:00,2026-07-31 09:00:00,201.0,Breached,2026-07
+TCK-1011,General Inquiry,Critical,Enterprise,Karan,Closed,2026-04-20 18:00:00,2026-04-23 03:00:00,57.0,Breached,2026-04
+TCK-1739,Bug Report,High,Smb,Priya,Resolved,2026-05-08 06:00:00,2026-05-17 01:00:00,211.0,Breached,2026-05
+TCK-1471,General Inquiry,Critical,Individual,Riya,Closed,2026-04-25 22:00:00,2026-04-27 00:00:00,26.0,Breached,2026-04
+TCK-1033,Account Access,Low,Enterprise,Neha,Open,2026-03-18 21:00:00,,,Open,2026-03
+TCK-1963,Billing,Medium,Individual,Riya,Open,2026-06-28 06:00:00,2026-07-04 03:00:00,141.0,Breached,2026-06
+TCK-1414,Bug Report,Low,Smb,Priya,Resolved,2026-04-28 21:00:00,2026-05-04 07:00:00,130.0,Within SLA,2026-04
+TCK-1581,Feature Request,Low,Smb,Riya,Resolved,2026-02-01 22:00:00,2026-02-05 11:00:00,85.0,Within SLA,2026-02
+TCK-1383,Technical,High,Smb,Amit,Open,2026-02-21 10:00:00,2026-02-27 12:00:00,146.0,Breached,2026-02
+TCK-1898,Bug Report,Critical,Enterprise,Karan,Open,2026-07-26 07:00:00,2026-08-05 01:00:00,234.0,Breached,2026-07
+TCK-1826,Billing,Low,Individual,Riya,Pending,2026-02-25 05:00:00,2026-03-02 11:00:00,126.0,Within SLA,2026-02
+TCK-2179,Technical,Critical,Enterprise,Karan,Pending,2026-05-04 01:00:00,2026-05-08 02:00:00,97.0,Breached,2026-05
+TCK-2116,General Inquiry,Medium,Smb,Amit,Open,2026-04-16 20:00:00,2026-04-18 04:00:00,32.0,Within SLA,2026-04
+TCK-2185,Billing,Low,Individual,Amit,Open,2026-05-15 08:00:00,2026-05-21 03:00:00,139.0,Within SLA,2026-05
+TCK-1379,General Inquiry,Medium,Individual,Neha,Open,2026-05-10 09:00:00,2026-05-19 09:00:00,216.0,Breached,2026-05
+TCK-1090,Billing,Medium,Enterprise,Karan,Closed,2026-03-21 17:00:00,,,Open,2026-03
+TCK-1937,Billing,High,Enterprise,Sana,Pending,2026-01-02 05:00:00,2026-01-02 06:00:00,1.0,Within SLA,2026-01
+TCK-1602,Bug Report,Low,Enterprise,Amit,Pending,2026-01-21 14:00:00,2026-01-22 14:00:00,24.0,Within SLA,2026-01
+TCK-1214,Technical,High,Enterprise,Neha,Resolved,2026-04-30 08:00:00,2026-05-01 13:00:00,29.0,Within SLA,2026-04
+TCK-1333,Feature Request,Medium,Enterprise,Vikram,Resolved,2026-04-16 17:00:00,2026-04-17 16:00:00,23.0,Within SLA,2026-04
+TCK-1134,Bug Report,Low,Individual,Priya,Resolved,2026-04-21 03:00:00,2026-04-28 09:00:00,174.0,Breached,2026-04
+TCK-1347,Billing,Critical,Enterprise,Neha,Pending,2026-03-31 08:00:00,2026-04-08 01:00:00,185.0,Breached,2026-03
+TCK-1935,Account Access,High,Enterprise,Karan,Resolved,2026-05-09 17:00:00,2026-05-13 19:00:00,98.0,Breached,2026-05
+TCK-1008,Bug Report,Critical,Individual,Vikram,Open,2026-06-12 05:00:00,2026-06-14 20:00:00,63.0,Breached,2026-06
+TCK-1916,Bug Report,Low,Individual,Unassigned,Resolved,2026-02-14 20:00:00,2026-02-22 05:00:00,177.0,Breached,2026-02
+TCK-1321,Account Access,Low,Enterprise,Priya,Open,2026-05-06 01:00:00,2026-05-07 14:00:00,37.0,Within SLA,2026-05
+TCK-2087,Feature Request,Low,Smb,Priya,Closed,2026-04-21 07:00:00,2026-04-25 12:00:00,101.0,Within SLA,2026-04
+TCK-1188,Feature Request,Critical,Enterprise,Neha,Open,2026-04-27 02:00:00,2026-04-28 19:00:00,41.0,Breached,2026-04
+TCK-1635,Technical,Critical,Smb,Neha,Resolved,2026-06-13 03:00:00,2026-06-14 10:00:00,31.0,Breached,2026-06
+TCK-1553,Bug Report,Low,Smb,Vikram,Resolved,2026-04-08 16:00:00,2026-04-09 18:00:00,26.0,Within SLA,2026-04
+TCK-1305,Technical,Critical,Enterprise,Unassigned,Resolved,2026-04-10 18:00:00,2026-04-16 14:00:00,140.0,Breached,2026-04
+TCK-1032,Account Access,Low,Smb,Unassigned,Resolved,2026-04-05 09:00:00,2026-04-14 07:00:00,214.0,Breached,2026-04
+TCK-1908,General Inquiry,High,Enterprise,Sana,Pending,2026-02-25 14:00:00,2026-03-06 13:00:00,215.0,Breached,2026-02
+TCK-1685,Technical,Medium,Smb,Arjun,Resolved,2026-02-11 22:00:00,2026-02-13 21:00:00,47.0,Within SLA,2026-02
+TCK-1797,Bug Report,High,Enterprise,Unassigned,Open,2026-01-30 15:00:00,2026-02-06 13:00:00,166.0,Breached,2026-01
+TCK-2109,Billing,Critical,Individual,Priya,Resolved,2026-01-06 09:00:00,,,Open,2026-01
+TCK-1241,General Inquiry,Low,Smb,Sana,Closed,2026-05-25 07:00:00,2026-05-25 12:00:00,5.0,Within SLA,2026-05
+TCK-1068,Account Access,High,Individual,Sana,Resolved,2026-05-07 10:00:00,2026-05-09 17:00:00,55.0,Breached,2026-05
+TCK-1175,Technical,Low,Individual,Sana,Closed,2026-04-05 11:00:00,2026-04-06 07:00:00,20.0,Within SLA,2026-04
+TCK-1767,Account Access,Medium,Smb,Neha,Open,2026-03-06 16:00:00,2026-03-09 22:00:00,78.0,Within SLA,2026-03
+TCK-1246,Billing,Low,Individual,Sana,Resolved,2026-01-05 00:00:00,2026-01-09 10:00:00,106.0,Within SLA,2026-01
+TCK-1057,Account Access,High,Enterprise,Amit,Closed,2026-02-26 08:00:00,2026-02-26 16:00:00,8.0,Within SLA,2026-02
+TCK-1631,Account Access,High,Individual,Karan,Open,2026-05-17 20:00:00,2026-05-26 21:00:00,217.0,Breached,2026-05
+TCK-1584,Account Access,Medium,Enterprise,Amit,Resolved,2026-07-26 05:00:00,2026-07-28 17:00:00,60.0,Within SLA,2026-07
+TCK-2119,General Inquiry,Low,Individual,Sana,Pending,2026-02-18 15:00:00,,,Open,2026-02
+TCK-1146,Billing,Low,Smb,Amit,Pending,2026-02-08 01:00:00,2026-02-16 17:00:00,208.0,Breached,2026-02
+TCK-1091,Feature Request,Critical,Enterprise,Neha,Pending,2026-05-08 22:00:00,2026-05-16 11:00:00,181.0,Breached,2026-05
+TCK-2159,Account Access,Low,Smb,Vikram,Open,2026-04-01 04:00:00,2026-04-08 22:00:00,186.0,Breached,2026-04
+TCK-1393,Account Access,Low,Smb,Priya,Resolved,2026-03-19 13:00:00,2026-03-26 15:00:00,170.0,Breached,2026-03
+TCK-1929,Feature Request,Critical,Individual,Sana,Resolved,2026-05-09 23:00:00,2026-05-15 05:00:00,126.0,Breached,2026-05
+TCK-1683,Bug Report,Critical,Individual,Sana,Closed,2026-05-05 18:00:00,2026-05-11 10:00:00,136.0,Breached,2026-05
+TCK-1311,Account Access,Medium,Individual,Sana,Resolved,2026-05-08 11:00:00,2026-05-16 20:00:00,201.0,Breached,2026-05
+TCK-1360,Account Access,High,Enterprise,Priya,Resolved,2026-07-30 20:00:00,2026-08-06 05:00:00,153.0,Breached,2026-07
+TCK-1094,Technical,High,Smb,Vikram,Pending,2026-05-22 17:00:00,2026-06-01 16:00:00,239.0,Breached,2026-05
+TCK-2041,Feature Request,Low,Smb,Vikram,Resolved,2026-05-17 15:00:00,2026-05-26 10:00:00,211.0,Breached,2026-05
+TCK-2066,Technical,Low,Enterprise,Vikram,Pending,2026-01-03 04:00:00,2026-01-06 07:00:00,75.0,Within SLA,2026-01
+TCK-1377,Technical,High,Enterprise,Sana,Open,2026-07-26 19:00:00,2026-07-30 05:00:00,82.0,Breached,2026-07
+TCK-1244,Billing,Critical,Smb,Vikram,Resolved,2026-01-09 02:00:00,2026-01-16 06:00:00,172.0,Breached,2026-01
+TCK-2121,Account Access,Low,Enterprise,Karan,Resolved,2026-02-18 02:00:00,2026-02-19 21:00:00,43.0,Within SLA,2026-02
+TCK-1088,Account Access,Low,Enterprise,Riya,Closed,2026-04-29 13:00:00,,,Open,2026-04
+TCK-1215,Technical,Medium,Smb,Priya,Pending,2026-07-08 10:00:00,2026-07-14 12:00:00,146.0,Breached,2026-07
+TCK-1445,Feature Request,Medium,Enterprise,Vikram,Pending,2026-02-09 18:00:00,2026-02-18 09:00:00,207.0,Breached,2026-02
+TCK-1174,Account Access,Critical,Smb,Neha,Pending,2026-02-02 02:00:00,2026-02-09 00:00:00,166.0,Breached,2026-02
+TCK-1191,Account Access,Low,Individual,Neha,Pending,2026-04-18 07:00:00,2026-04-27 22:00:00,231.0,Breached,2026-04
+TCK-1426,Account Access,Low,Individual,Neha,Resolved,2026-03-13 17:00:00,2026-03-15 11:00:00,42.0,Within SLA,2026-03
+TCK-2083,Feature Request,Medium,Smb,Priya,Resolved,2026-05-09 18:00:00,2026-05-16 21:00:00,171.0,Breached,2026-05
+TCK-1119,Account Access,Low,Smb,Neha,Pending,2026-06-19 00:00:00,2026-06-22 20:00:00,92.0,Within SLA,2026-06
+TCK-1120,Account Access,Low,Smb,Vikram,Resolved,2026-05-15 03:00:00,2026-05-20 05:00:00,122.0,Within SLA,2026-05
+TCK-1948,Bug Report,High,Enterprise,Sana,Resolved,2026-07-09 19:00:00,2026-07-13 13:00:00,90.0,Breached,2026-07
+TCK-1001,Technical,Medium,Smb,Karan,Resolved,2026-06-13 03:00:00,,,Open,2026-06
+TCK-1395,Billing,Low,Enterprise,Amit,Open,2026-02-21 11:00:00,2026-02-24 15:00:00,76.0,Within SLA,2026-02
+TCK-1402,Billing,High,Smb,Amit,Resolved,2026-06-23 14:00:00,2026-06-27 16:00:00,98.0,Breached,2026-06
+TCK-1405,Technical,Low,Enterprise,Neha,Resolved,2026-05-23 19:00:00,,,Open,2026-05
+TCK-1914,Feature Request,High,Smb,Karan,Resolved,2026-04-05 01:00:00,,,Open,2026-04
+TCK-1927,Feature Request,Critical,Individual,Priya,Resolved,2026-05-18 04:00:00,2026-05-20 01:00:00,45.0,Breached,2026-05
+TCK-1163,Feature Request,Medium,Enterprise,Arjun,Resolved,2026-04-20 00:00:00,2026-04-22 14:00:00,62.0,Within SLA,2026-04
+TCK-1833,Account Access,Critical,Smb,Arjun,Pending,2026-05-31 01:00:00,2026-06-10 01:00:00,240.0,Breached,2026-05
+TCK-1115,Account Access,Low,Individual,Arjun,Resolved,2026-06-26 11:00:00,2026-07-01 05:00:00,114.0,Within SLA,2026-06
+TCK-1671,Billing,Critical,Individual,Amit,Resolved,2026-02-03 11:00:00,2026-02-10 09:00:00,166.0,Breached,2026-02
+TCK-1151,Technical,Medium,Smb,Sana,Resolved,2026-03-21 05:00:00,2026-03-24 21:00:00,88.0,Within SLA,2026-03
+TCK-1870,Billing,High,Enterprise,Riya,Resolved,2026-07-26 23:00:00,2026-07-31 06:00:00,103.0,Breached,2026-07
+TCK-1854,General Inquiry,Low,Smb,Priya,Resolved,2026-02-01 21:00:00,2026-02-07 04:00:00,127.0,Within SLA,2026-02
+TCK-1562,Technical,Low,Smb,Riya,Open,2026-07-15 19:00:00,2026-07-22 07:00:00,156.0,Within SLA,2026-07
+TCK-1369,General Inquiry,Critical,Enterprise,Vikram,Open,2026-04-03 22:00:00,2026-04-07 21:00:00,95.0,Breached,2026-04
+TCK-1544,General Inquiry,Medium,Enterprise,Vikram,Resolved,2026-04-22 22:00:00,2026-04-24 09:00:00,35.0,Within SLA,2026-04
+TCK-1478,Feature Request,Low,Enterprise,Sana,Open,2026-04-14 18:00:00,,,Open,2026-04
+TCK-2174,Feature Request,High,Smb,Riya,Closed,2026-05-01 08:00:00,2026-05-01 17:00:00,9.0,Within SLA,2026-05
+TCK-1533,Feature Request,High,Enterprise,Arjun,Resolved,2026-03-22 17:00:00,2026-03-26 05:00:00,84.0,Breached,2026-03
+TCK-1626,Bug Report,Medium,Smb,Arjun,Resolved,2026-04-05 05:00:00,2026-04-12 17:00:00,180.0,Breached,2026-04
+TCK-1693,Feature Request,High,Enterprise,Arjun,Open,2026-04-12 04:00:00,2026-04-16 18:00:00,110.0,Breached,2026-04
+TCK-1513,Feature Request,Low,Enterprise,Vikram,Pending,2026-05-01 05:00:00,2026-05-10 05:00:00,216.0,Breached,2026-05
+TCK-1873,Billing,High,Smb,Vikram,Open,2026-01-26 00:00:00,2026-01-27 12:00:00,36.0,Within SLA,2026-01
+TCK-1862,Bug Report,Low,Individual,Karan,Resolved,2026-06-08 03:00:00,2026-06-15 08:00:00,173.0,Breached,2026-06
+TCK-1073,Account Access,Low,Smb,Arjun,Closed,2026-07-05 18:00:00,2026-07-11 09:00:00,135.0,Within SLA,2026-07
+TCK-1876,Account Access,Medium,Smb,Amit,Closed,2026-03-17 04:00:00,2026-03-17 18:00:00,14.0,Within SLA,2026-03
+TCK-1808,Technical,Medium,Smb,Vikram,Closed,2026-03-10 11:00:00,2026-03-14 22:00:00,107.0,Breached,2026-03
+TCK-1259,Account Access,Critical,Enterprise,Priya,Resolved,2026-01-07 02:00:00,2026-01-08 02:00:00,24.0,Within SLA,2026-01
+TCK-1625,Billing,High,Enterprise,Neha,Pending,2026-03-06 04:00:00,2026-03-09 03:00:00,71.0,Breached,2026-03
+TCK-1827,Feature Request,Critical,Smb,Neha,Resolved,2026-05-04 18:00:00,2026-05-09 14:00:00,116.0,Breached,2026-05
+TCK-1235,General Inquiry,Medium,Enterprise,Vikram,Open,2026-01-15 17:00:00,2026-01-20 04:00:00,107.0,Breached,2026-01
+TCK-1617,Feature Request,Low,Smb,Priya,Resolved,2026-02-05 20:00:00,2026-02-15 01:00:00,221.0,Breached,2026-02
+TCK-1517,Billing,Low,Smb,Amit,Resolved,2026-02-12 08:00:00,2026-02-16 14:00:00,102.0,Within SLA,2026-02
+TCK-1947,Account Access,High,Enterprise,Amit,Pending,2026-01-05 20:00:00,2026-01-06 08:00:00,12.0,Within SLA,2026-01
+TCK-1837,Feature Request,Low,Individual,Amit,Resolved,2026-05-31 07:00:00,2026-06-08 08:00:00,193.0,Breached,2026-05
+TCK-1843,General Inquiry,High,Enterprise,Arjun,Open,2026-04-12 22:00:00,2026-04-14 10:00:00,36.0,Within SLA,2026-04
+TCK-1803,Billing,Low,Individual,Karan,Resolved,2026-05-24 07:00:00,2026-05-27 23:00:00,88.0,Within SLA,2026-05
+TCK-1852,Account Access,Medium,Enterprise,Sana,Resolved,2026-03-08 18:00:00,2026-03-18 04:00:00,226.0,Breached,2026-03
+TCK-1810,Billing,High,Individual,Neha,Pending,2026-07-17 00:00:00,2026-07-22 13:00:00,133.0,Breached,2026-07
+TCK-1593,General Inquiry,Medium,Smb,Amit,Resolved,2026-01-24 14:00:00,2026-02-02 03:00:00,205.0,Breached,2026-01
+TCK-2099,Bug Report,Critical,Smb,Vikram,Open,2026-07-01 17:00:00,2026-07-06 17:00:00,120.0,Breached,2026-07
+TCK-1502,Bug Report,Critical,Smb,Amit,Closed,2026-01-09 21:00:00,2026-01-19 16:00:00,235.0,Breached,2026-01
+TCK-1539,Account Access,Low,Smb,Riya,Open,2026-06-26 22:00:00,2026-07-06 15:00:00,233.0,Breached,2026-06
+TCK-1982,Account Access,High,Enterprise,Arjun,Open,2026-05-17 03:00:00,2026-05-21 12:00:00,105.0,Breached,2026-05
+TCK-1729,Technical,High,Individual,Riya,Open,2026-03-24 01:00:00,,,Open,2026-03
+TCK-1582,Bug Report,High,Smb,Sana,Pending,2026-05-27 23:00:00,2026-06-02 15:00:00,136.0,Breached,2026-05
+TCK-1344,Billing,High,Smb,Riya,Closed,2026-07-07 22:00:00,2026-07-09 20:00:00,46.0,Within SLA,2026-07
+TCK-2013,Technical,High,Smb,Vikram,Closed,2026-05-30 12:00:00,,,Open,2026-05
+TCK-1926,Billing,Critical,Enterprise,Sana,Resolved,2026-06-06 23:00:00,2026-06-08 15:00:00,40.0,Breached,2026-06
+TCK-1294,Technical,High,Smb,Sana,Closed,2026-02-01 05:00:00,2026-02-01 06:00:00,1.0,Within SLA,2026-02
+TCK-1365,Billing,Medium,Smb,Amit,Open,2026-03-21 08:00:00,2026-03-30 12:00:00,220.0,Breached,2026-03
+TCK-1934,Technical,Critical,Smb,Sana,Open,2026-06-30 18:00:00,2026-07-01 15:00:00,21.0,Within SLA,2026-06
+TCK-1660,Account Access,High,Smb,Arjun,Resolved,2026-02-15 05:00:00,2026-02-15 17:00:00,12.0,Within SLA,2026-02
+TCK-1015,Technical,Low,Smb,Arjun,Pending,2026-06-13 16:00:00,2026-06-15 08:00:00,40.0,Within SLA,2026-06
+TCK-1687,Account Access,Low,Enterprise,Amit,Closed,2026-04-06 14:00:00,2026-04-08 08:00:00,42.0,Within SLA,2026-04
+TCK-1087,Account Access,Low,Enterprise,Riya,Resolved,2026-01-10 14:00:00,,,Open,2026-01
+TCK-1371,Technical,Medium,Smb,Sana,Pending,2026-03-14 00:00:00,2026-03-15 18:00:00,42.0,Within SLA,2026-03
+TCK-1166,Technical,High,Enterprise,Amit,Closed,2026-01-12 11:00:00,2026-01-21 04:00:00,209.0,Breached,2026-01
+TCK-1132,Billing,Low,Smb,Riya,Resolved,2026-03-29 05:00:00,2026-04-05 22:00:00,185.0,Breached,2026-03
+TCK-1336,Technical,Medium,Enterprise,Vikram,Open,2026-01-15 15:00:00,2026-01-23 20:00:00,197.0,Breached,2026-01
+TCK-1060,Billing,High,Smb,Riya,Resolved,2026-01-21 15:00:00,,,Open,2026-01
+TCK-1710,Feature Request,Low,Smb,Riya,Pending,2026-06-26 03:00:00,,,Open,2026-06
+TCK-1968,Account Access,High,Enterprise,Karan,Resolved,2026-07-19 14:00:00,2026-07-26 13:00:00,167.0,Breached,2026-07
+TCK-1677,Technical,High,Individual,Priya,Open,2026-07-08 18:00:00,2026-07-16 06:00:00,180.0,Breached,2026-07
+TCK-1355,Account Access,Medium,Enterprise,Amit,Pending,2026-06-14 17:00:00,2026-06-18 16:00:00,95.0,Within SLA,2026-06
+TCK-1781,Bug Report,Critical,Enterprise,Priya,Resolved,2026-06-20 03:00:00,2026-06-25 15:00:00,132.0,Breached,2026-06
+TCK-1425,Technical,Medium,Smb,Riya,Pending,2026-03-17 14:00:00,2026-03-24 21:00:00,175.0,Breached,2026-03
+TCK-1293,Billing,Low,Enterprise,Amit,Resolved,2026-05-28 04:00:00,2026-06-02 09:00:00,125.0,Within SLA,2026-05
+TCK-1042,Billing,Low,Enterprise,Arjun,Pending,2026-01-30 08:00:00,2026-02-02 04:00:00,68.0,Within SLA,2026-01
+TCK-2102,Account Access,High,Enterprise,Riya,Resolved,2026-01-28 19:00:00,2026-01-30 23:00:00,52.0,Breached,2026-01
+TCK-1330,Billing,High,Enterprise,Amit,Resolved,2026-01-17 06:00:00,2026-01-22 00:00:00,114.0,Breached,2026-01
+TCK-1615,Feature Request,Medium,Individual,Neha,Closed,2026-05-02 04:00:00,2026-05-06 07:00:00,99.0,Breached,2026-05
+TCK-1430,Account Access,Critical,Smb,Vikram,Resolved,2026-07-30 20:00:00,,,Open,2026-07
+TCK-1080,Billing,High,Smb,Vikram,Pending,2026-03-15 22:00:00,2026-03-25 03:00:00,221.0,Breached,2026-03
+TCK-1694,Bug Report,High,Enterprise,Sana,Closed,2026-04-25 17:00:00,,,Open,2026-04
+TCK-1029,General Inquiry,High,Individual,Arjun,Closed,2026-06-02 01:00:00,2026-06-06 13:00:00,108.0,Breached,2026-06
+TCK-1708,Account Access,Medium,Individual,Unassigned,Resolved,2026-07-29 14:00:00,2026-08-04 23:00:00,153.0,Breached,2026-07
+TCK-1893,Billing,Medium,Smb,Priya,Open,2026-02-15 01:00:00,2026-02-21 12:00:00,155.0,Breached,2026-02
+TCK-1983,Technical,Critical,Enterprise,Karan,Closed,2026-02-07 07:00:00,2026-02-08 09:00:00,26.0,Breached,2026-02
+TCK-1977,Billing,Medium,Enterprise,Sana,Closed,2026-05-18 16:00:00,2026-05-19 18:00:00,26.0,Within SLA,2026-05
+TCK-1891,Feature Request,Critical,Smb,Karan,Resolved,2026-02-05 04:00:00,2026-02-08 17:00:00,85.0,Breached,2026-02
+TCK-1255,Technical,High,Smb,Priya,Closed,2026-01-08 20:00:00,2026-01-13 16:00:00,116.0,Breached,2026-01
+TCK-1161,Technical,High,Enterprise,Priya,Resolved,2026-07-06 19:00:00,2026-07-08 00:00:00,29.0,Within SLA,2026-07
+TCK-1459,Technical,Low,Smb,Neha,Resolved,2026-06-11 16:00:00,,,Open,2026-06
+TCK-1384,Bug Report,High,Smb,Neha,Resolved,2026-06-11 05:00:00,2026-06-11 20:00:00,15.0,Within SLA,2026-06
+TCK-1314,General Inquiry,Low,Enterprise,Riya,Closed,2026-06-22 23:00:00,,,Open,2026-06
+TCK-1085,Feature Request,High,Enterprise,Amit,Open,2026-05-13 20:00:00,2026-05-16 20:00:00,72.0,Breached,2026-05
+TCK-1575,Billing,Critical,Enterprise,Riya,Resolved,2026-02-03 06:00:00,,,Open,2026-02
+TCK-1763,Technical,Critical,Smb,Neha,Resolved,2026-06-03 06:00:00,2026-06-06 07:00:00,73.0,Breached,2026-06
+TCK-1137,Feature Request,Low,Enterprise,Priya,Open,2026-01-05 14:00:00,2026-01-14 19:00:00,221.0,Breached,2026-01
+TCK-1112,Account Access,High,Enterprise,Riya,Resolved,2026-02-26 20:00:00,,,Open,2026-02
+TCK-1195,Bug Report,Low,Individual,Karan,Closed,2026-05-22 09:00:00,,,Open,2026-05
+TCK-1853,Billing,High,Enterprise,Priya,Open,2026-04-27 00:00:00,2026-05-03 21:00:00,165.0,Breached,2026-04
+TCK-1179,Technical,High,Smb,Vikram,Closed,2026-02-10 22:00:00,2026-02-18 10:00:00,180.0,Breached,2026-02
+TCK-1556,Technical,High,Enterprise,Karan,Pending,2026-04-10 00:00:00,2026-04-13 00:00:00,72.0,Breached,2026-04
+TCK-1724,Billing,Low,Smb,Amit,Closed,2026-06-23 10:00:00,2026-06-30 02:00:00,160.0,Within SLA,2026-06
+TCK-1860,Billing,Low,Enterprise,Priya,Pending,2026-03-19 19:00:00,2026-03-20 12:00:00,17.0,Within SLA,2026-03
+TCK-1497,Account Access,High,Individual,Priya,Open,2026-01-21 05:00:00,2026-01-24 14:00:00,81.0,Breached,2026-01
+TCK-1940,Technical,Low,Individual,Karan,Open,2026-06-10 19:00:00,,,Open,2026-06
+TCK-1806,Technical,High,Individual,Neha,Resolved,2026-07-15 16:00:00,2026-07-24 23:00:00,223.0,Breached,2026-07
+TCK-1130,Account Access,High,Individual,Unassigned,Closed,2026-06-18 22:00:00,2026-06-20 21:00:00,47.0,Within SLA,2026-06
+TCK-1716,Technical,Critical,Individual,Riya,Resolved,2026-01-29 10:00:00,2026-01-30 15:00:00,29.0,Breached,2026-01
+TCK-1338,Technical,Low,Smb,Amit,Resolved,2026-06-01 00:00:00,2026-06-04 19:00:00,91.0,Within SLA,2026-06
+TCK-1609,Billing,High,Smb,Priya,Open,2026-01-25 14:00:00,2026-01-29 22:00:00,104.0,Breached,2026-01
+TCK-1125,Feature Request,Critical,Enterprise,Arjun,Open,2026-04-26 07:00:00,2026-05-05 03:00:00,212.0,Breached,2026-04
+TCK-1196,Account Access,Medium,Smb,Priya,Resolved,2026-01-25 12:00:00,2026-01-29 03:00:00,87.0,Within SLA,2026-01
+TCK-1227,Technical,Low,Enterprise,Amit,Resolved,2026-02-15 17:00:00,2026-02-17 02:00:00,33.0,Within SLA,2026-02
+TCK-1690,Feature Request,Low,Smb,Karan,Open,2026-06-23 17:00:00,,,Open,2026-06
+TCK-1269,Account Access,Medium,Smb,Priya,Open,2026-06-02 20:00:00,2026-06-04 00:00:00,28.0,Within SLA,2026-06
+TCK-1153,Technical,High,Enterprise,Arjun,Closed,2026-04-07 04:00:00,2026-04-16 01:00:00,213.0,Breached,2026-04
+TCK-1910,Account Access,Medium,Enterprise,Karan,Closed,2026-01-05 13:00:00,,,Open,2026-01
+TCK-1585,Billing,High,Individual,Vikram,Resolved,2026-07-08 06:00:00,2026-07-12 17:00:00,107.0,Breached,2026-07
+TCK-1987,Feature Request,High,Enterprise,Arjun,Pending,2026-07-05 20:00:00,2026-07-13 10:00:00,182.0,Breached,2026-07
+TCK-1104,Account Access,High,Individual,Unassigned,Pending,2026-01-28 07:00:00,2026-02-01 03:00:00,92.0,Breached,2026-01
+TCK-1594,General Inquiry,High,Smb,Riya,Pending,2026-03-21 10:00:00,2026-03-30 18:00:00,224.0,Breached,2026-03
+TCK-2142,Account Access,Medium,Smb,Karan,Open,2026-06-20 17:00:00,2026-06-21 16:00:00,23.0,Within SLA,2026-06
+TCK-1787,Account Access,Low,Enterprise,Amit,Resolved,2026-01-12 02:00:00,2026-01-19 15:00:00,181.0,Breached,2026-01
+TCK-1720,Billing,High,Smb,Priya,Resolved,2026-06-27 18:00:00,2026-07-05 16:00:00,190.0,Breached,2026-06
+TCK-1885,Technical,High,Smb,Sana,Resolved,2026-03-19 23:00:00,2026-03-27 06:00:00,175.0,Breached,2026-03
+TCK-1777,Billing,High,Smb,Arjun,Resolved,2026-06-10 08:00:00,2026-06-10 10:00:00,2.0,Within SLA,2026-06
+TCK-1985,Technical,High,Enterprise,Priya,Pending,2026-03-11 19:00:00,,,Open,2026-03
+TCK-1850,Technical,High,Enterprise,Sana,Resolved,2026-05-07 22:00:00,2026-05-10 04:00:00,54.0,Breached,2026-05
+TCK-1895,General Inquiry,Critical,Enterprise,Priya,Closed,2026-04-16 12:00:00,2026-04-17 17:00:00,29.0,Breached,2026-04
+TCK-1228,Bug Report,High,Smb,Karan,Resolved,2026-04-19 17:00:00,2026-04-22 04:00:00,59.0,Breached,2026-04
+TCK-2165,Billing,Critical,Individual,Riya,Closed,2026-01-17 01:00:00,2026-01-18 07:00:00,30.0,Breached,2026-01
+TCK-1302,Account Access,High,Enterprise,Sana,Closed,2026-03-12 20:00:00,,,Open,2026-03
+TCK-1855,Account Access,Low,Smb,Vikram,Pending,2026-04-25 10:00:00,,,Open,2026-04
+TCK-1276,Technical,High,Enterprise,Neha,Open,2026-06-01 13:00:00,2026-06-09 02:00:00,181.0,Breached,2026-06
+TCK-1127,Account Access,High,Enterprise,Priya,Resolved,2026-05-23 01:00:00,2026-05-29 01:00:00,144.0,Breached,2026-05
+TCK-1406,Billing,Low,Smb,Priya,Pending,2026-07-12 15:00:00,2026-07-16 04:00:00,85.0,Within SLA,2026-07
+TCK-1776,Technical,Low,Enterprise,Amit,Pending,2026-04-06 18:00:00,2026-04-07 22:00:00,28.0,Within SLA,2026-04
+TCK-1822,Bug Report,Medium,Smb,Karan,Closed,2026-07-30 05:00:00,2026-07-31 14:00:00,33.0,Within SLA,2026-07
+TCK-1712,Technical,High,Individual,Arjun,Open,2026-02-21 05:00:00,2026-02-21 13:00:00,8.0,Within SLA,2026-02
+TCK-1766,Technical,Critical,Individual,Riya,Resolved,2026-01-25 17:00:00,,,Open,2026-01
+TCK-1684,Billing,Medium,Individual,Neha,Resolved,2026-07-22 08:00:00,2026-07-26 08:00:00,96.0,Within SLA,2026-07
+TCK-1750,Billing,High,Smb,Riya,Closed,2026-04-03 15:00:00,2026-04-12 10:00:00,211.0,Breached,2026-04
+TCK-2168,Account Access,Critical,Smb,Karan,Open,2026-02-22 01:00:00,2026-03-03 14:00:00,229.0,Breached,2026-02
+TCK-1037,Account Access,Medium,Smb,Arjun,Resolved,2026-02-02 01:00:00,2026-02-11 16:00:00,231.0,Breached,2026-02
+TCK-1140,Billing,Low,Smb,Arjun,Open,2026-03-27 05:00:00,,,Open,2026-03
+TCK-1304,Billing,Low,Enterprise,Arjun,Closed,2026-04-09 03:00:00,2026-04-15 23:00:00,164.0,Within SLA,2026-04
+TCK-1268,Feature Request,Low,Enterprise,Arjun,Resolved,2026-06-03 15:00:00,2026-06-09 08:00:00,137.0,Within SLA,2026-06
+TCK-1835,Billing,Low,Individual,Riya,Open,2026-02-09 09:00:00,2026-02-16 15:00:00,174.0,Breached,2026-02
+TCK-1534,Account Access,High,Enterprise,Priya,Resolved,2026-03-03 18:00:00,2026-03-07 19:00:00,97.0,Breached,2026-03
+TCK-1546,Account Access,High,Smb,Sana,Closed,2026-06-21 13:00:00,2026-06-25 07:00:00,90.0,Breached,2026-06
+TCK-1213,Account Access,Critical,Smb,Neha,Resolved,2026-05-26 19:00:00,,,Open,2026-05
+TCK-1897,Technical,Low,Smb,Priya,Resolved,2026-02-21 16:00:00,2026-02-26 14:00:00,118.0,Within SLA,2026-02
+TCK-1469,Feature Request,Medium,Enterprise,Amit,Closed,2026-05-18 13:00:00,2026-05-25 02:00:00,157.0,Breached,2026-05
+TCK-2068,Feature Request,Medium,Enterprise,Arjun,Open,2026-01-22 05:00:00,2026-02-01 00:00:00,235.0,Breached,2026-01
+TCK-1868,Account Access,Critical,Individual,Amit,Resolved,2026-06-27 10:00:00,2026-07-03 11:00:00,145.0,Breached,2026-06
+TCK-1673,Billing,Critical,Individual,Sana,Pending,2026-06-30 20:00:00,,,Open,2026-06
+TCK-1528,Bug Report,High,Enterprise,Priya,Open,2026-06-17 15:00:00,2026-06-26 13:00:00,214.0,Breached,2026-06
+TCK-1676,Technical,Medium,Individual,Karan,Pending,2026-02-14 20:00:00,2026-02-15 14:00:00,18.0,Within SLA,2026-02
+TCK-2095,Technical,High,Enterprise,Riya,Resolved,2026-03-22 20:00:00,2026-03-31 11:00:00,207.0,Breached,2026-03
+TCK-1815,Technical,Low,Enterprise,Sana,Closed,2026-01-24 16:00:00,2026-01-30 06:00:00,134.0,Within SLA,2026-01
+TCK-1242,Bug Report,Low,Individual,Amit,Pending,2026-02-20 10:00:00,2026-02-26 12:00:00,146.0,Within SLA,2026-02
+TCK-1343,Account Access,Medium,Smb,Priya,Open,2026-02-14 22:00:00,2026-02-22 08:00:00,178.0,Breached,2026-02
+TCK-1550,Technical,High,Enterprise,Riya,Open,2026-05-20 16:00:00,2026-05-26 13:00:00,141.0,Breached,2026-05
+TCK-1387,Technical,Medium,Individual,Karan,Pending,2026-02-18 00:00:00,2026-02-24 17:00:00,161.0,Breached,2026-02
+TCK-2146,Billing,Medium,Smb,Arjun,Resolved,2026-02-16 12:00:00,2026-02-25 10:00:00,214.0,Breached,2026-02
+TCK-1967,Bug Report,High,Smb,Priya,Resolved,2026-03-04 01:00:00,,,Open,2026-03
+TCK-1207,Bug Report,High,Individual,Vikram,Closed,2026-01-11 09:00:00,2026-01-12 06:00:00,21.0,Within SLA,2026-01
+TCK-1296,Billing,Medium,Enterprise,Vikram,Resolved,2026-04-20 20:00:00,,,Open,2026-04
+TCK-1696,Billing,Low,Enterprise,Priya,Open,2026-03-19 15:00:00,2026-03-25 06:00:00,135.0,Within SLA,2026-03
+TCK-2080,Bug Report,Critical,Individual,Neha,Resolved,2026-07-15 10:00:00,,,Open,2026-07
+TCK-1074,Billing,Low,Smb,Neha,Pending,2026-03-19 00:00:00,2026-03-20 09:00:00,33.0,Within SLA,2026-03
+TCK-1606,Technical,Low,Smb,Priya,Resolved,2026-05-17 14:00:00,2026-05-22 00:00:00,106.0,Within SLA,2026-05
+TCK-1105,Billing,Low,Enterprise,Sana,Closed,2026-03-12 00:00:00,2026-03-19 08:00:00,176.0,Breached,2026-03
+TCK-1646,Bug Report,High,Smb,Vikram,Resolved,2026-06-11 22:00:00,2026-06-12 20:00:00,22.0,Within SLA,2026-06
+TCK-2045,Billing,Critical,Smb,Riya,Closed,2026-04-06 01:00:00,2026-04-13 03:00:00,170.0,Breached,2026-04
+TCK-1017,Technical,Medium,Enterprise,Neha,Open,2026-07-07 15:00:00,2026-07-15 18:00:00,195.0,Breached,2026-07
+TCK-1440,Feature Request,Low,Smb,Sana,Closed,2026-05-22 17:00:00,2026-05-23 04:00:00,11.0,Within SLA,2026-05
+TCK-1092,Billing,High,Enterprise,Sana,Resolved,2026-02-18 19:00:00,2026-02-28 05:00:00,226.0,Breached,2026-02
+TCK-1089,Bug Report,Low,Enterprise,Vikram,Closed,2026-03-10 17:00:00,2026-03-13 19:00:00,74.0,Within SLA,2026-03
+TCK-2079,Feature Request,Critical,Individual,Priya,Resolved,2026-05-09 03:00:00,2026-05-16 02:00:00,167.0,Breached,2026-05
+TCK-1909,Technical,Medium,Individual,Vikram,Resolved,2026-01-14 19:00:00,,,Open,2026-01
+TCK-1451,Technical,High,Enterprise,Riya,Closed,2026-02-05 14:00:00,2026-02-11 15:00:00,145.0,Breached,2026-02
+TCK-1718,Technical,Low,Enterprise,Arjun,Closed,2026-05-22 13:00:00,2026-05-31 16:00:00,219.0,Breached,2026-05
+TCK-1103,Account Access,Critical,Individual,Priya,Pending,2026-05-31 09:00:00,2026-06-04 22:00:00,109.0,Breached,2026-05
+TCK-1239,General Inquiry,High,Individual,Arjun,Resolved,2026-05-22 10:00:00,2026-05-26 12:00:00,98.0,Breached,2026-05
+TCK-1069,Feature Request,Critical,Smb,Amit,Pending,2026-01-03 16:00:00,2026-01-04 14:00:00,22.0,Within SLA,2026-01
+TCK-1943,Feature Request,High,Individual,Arjun,Open,2026-05-14 08:00:00,2026-05-19 10:00:00,122.0,Breached,2026-05
+TCK-1939,Technical,Medium,Individual,Priya,Pending,2026-05-26 06:00:00,2026-05-26 22:00:00,16.0,Within SLA,2026-05
+TCK-1006,Technical,High,Enterprise,Karan,Pending,2026-04-03 18:00:00,2026-04-04 12:00:00,18.0,Within SLA,2026-04
+TCK-2120,Technical,High,Enterprise,Vikram,Pending,2026-06-17 04:00:00,2026-06-18 08:00:00,28.0,Within SLA,2026-06
+TCK-1966,Billing,Low,Individual,Neha,Pending,2026-01-25 11:00:00,2026-01-27 09:00:00,46.0,Within SLA,2026-01
+TCK-1019,Account Access,Low,Smb,Vikram,Resolved,2026-05-13 14:00:00,2026-05-16 00:00:00,58.0,Within SLA,2026-05
+TCK-1122,Bug Report,Low,Enterprise,Neha,Resolved,2026-05-03 12:00:00,2026-05-04 16:00:00,28.0,Within SLA,2026-05
+TCK-1662,Bug Report,Low,Smb,Vikram,Open,2026-05-12 03:00:00,,,Open,2026-05
+TCK-2040,Account Access,Medium,Smb,Amit,Resolved,2026-05-04 22:00:00,2026-05-11 09:00:00,155.0,Breached,2026-05
+TCK-1275,Technical,Medium,Enterprise,Vikram,Pending,2026-04-20 14:00:00,2026-04-24 22:00:00,104.0,Breached,2026-04
+TCK-1434,Feature Request,High,Enterprise,Neha,Resolved,2026-01-27 06:00:00,2026-02-03 18:00:00,180.0,Breached,2026-01
+TCK-1812,Account Access,High,Enterprise,Neha,Pending,2026-04-13 21:00:00,2026-04-23 05:00:00,224.0,Breached,2026-04
+TCK-2163,Technical,Medium,Enterprise,Amit,Pending,2026-06-08 12:00:00,,,Open,2026-06
+TCK-2169,General Inquiry,Critical,Smb,Amit,Resolved,2026-02-17 21:00:00,2026-02-27 15:00:00,234.0,Breached,2026-02
+TCK-1182,General Inquiry,High,Smb,Neha,Closed,2026-03-23 20:00:00,,,Open,2026-03
+TCK-1185,Technical,Medium,Smb,Arjun,Resolved,2026-05-17 02:00:00,2026-05-18 22:00:00,44.0,Within SLA,2026-05
+TCK-1407,Bug Report,Low,Enterprise,Karan,Pending,2026-07-29 07:00:00,,,Open,2026-07
+TCK-1866,Technical,Low,Smb,Riya,Pending,2026-04-05 00:00:00,2026-04-12 01:00:00,169.0,Breached,2026-04
+TCK-1521,Bug Report,Medium,Smb,Arjun,Open,2026-06-30 14:00:00,2026-07-06 09:00:00,139.0,Breached,2026-06
+TCK-2004,Technical,Low,Smb,Neha,Closed,2026-05-03 09:00:00,2026-05-04 07:00:00,22.0,Within SLA,2026-05
+TCK-1381,Bug Report,Low,Enterprise,Karan,Pending,2026-04-18 10:00:00,2026-04-24 16:00:00,150.0,Within SLA,2026-04
+TCK-1428,General Inquiry,Medium,Enterprise,Priya,Resolved,2026-05-15 07:00:00,2026-05-20 21:00:00,134.0,Breached,2026-05
+TCK-1079,Feature Request,Critical,Smb,Riya,Closed,2026-03-03 05:00:00,2026-03-04 22:00:00,41.0,Breached,2026-03
+TCK-2010,Billing,Critical,Smb,Amit,Open,2026-02-24 09:00:00,2026-03-06 02:00:00,233.0,Breached,2026-02
+TCK-1608,Bug Report,Low,Smb,Arjun,Resolved,2026-06-19 21:00:00,,,Open,2026-06
+TCK-2126,Account Access,Medium,Enterprise,Sana,Closed,2026-02-26 03:00:00,,,Open,2026-02
+TCK-2085,Account Access,High,Enterprise,Riya,Pending,2026-07-20 07:00:00,2026-07-23 04:00:00,69.0,Breached,2026-07
+TCK-1959,Billing,Low,Individual,Karan,Open,2026-07-11 21:00:00,2026-07-20 17:00:00,212.0,Breached,2026-07
+TCK-1560,Account Access,Medium,Enterprise,Priya,Pending,2026-05-23 17:00:00,2026-05-25 00:00:00,31.0,Within SLA,2026-05
+TCK-1847,Feature Request,Low,Individual,Riya,Resolved,2026-01-08 21:00:00,2026-01-10 05:00:00,32.0,Within SLA,2026-01
+TCK-1691,Technical,High,Smb,Unassigned,Resolved,2026-01-15 19:00:00,2026-01-22 01:00:00,150.0,Breached,2026-01
+TCK-2154,Account Access,Critical,Enterprise,Vikram,Resolved,2026-05-10 14:00:00,2026-05-20 12:00:00,238.0,Breached,2026-05
+TCK-1437,Account Access,Low,Enterprise,Sana,Resolved,2026-01-17 23:00:00,2026-01-25 11:00:00,180.0,Breached,2026-01
+TCK-1491,Feature Request,Medium,Smb,Neha,Pending,2026-07-04 08:00:00,2026-07-10 07:00:00,143.0,Breached,2026-07
+TCK-2135,Feature Request,High,Smb,Vikram,Pending,2026-05-08 00:00:00,2026-05-15 22:00:00,190.0,Breached,2026-05
+TCK-1070,Feature Request,High,Smb,Arjun,Pending,2026-04-25 00:00:00,,,Open,2026-04
+TCK-1809,General Inquiry,High,Individual,Amit,Closed,2026-07-25 13:00:00,2026-07-29 22:00:00,105.0,Breached,2026-07
+TCK-1012,Billing,Critical,Enterprise,Amit,Resolved,2026-06-10 05:00:00,2026-06-14 18:00:00,109.0,Breached,2026-06
+TCK-1145,Bug Report,Low,Smb,Amit,Resolved,2026-05-29 17:00:00,2026-06-06 15:00:00,190.0,Breached,2026-05
+TCK-1918,Billing,Low,Smb,Sana,Closed,2026-03-02 23:00:00,2026-03-05 14:00:00,63.0,Within SLA,2026-03
+TCK-1640,Billing,Low,Individual,Riya,Pending,2026-07-03 08:00:00,,,Open,2026-07
+TCK-1177,Technical,Low,Smb,Amit,Closed,2026-02-24 19:00:00,2026-03-06 14:00:00,235.0,Breached,2026-02
+TCK-1995,General Inquiry,Low,Enterprise,Amit,Resolved,2026-07-08 20:00:00,2026-07-11 04:00:00,56.0,Within SLA,2026-07
+TCK-1441,Feature Request,High,Smb,Neha,Closed,2026-07-11 23:00:00,2026-07-15 16:00:00,89.0,Breached,2026-07
+TCK-1522,General Inquiry,Medium,Enterprise,Amit,Open,2026-07-07 14:00:00,2026-07-16 11:00:00,213.0,Breached,2026-07
+TCK-2005,Feature Request,Medium,Enterprise,Karan,Resolved,2026-03-13 03:00:00,2026-03-20 15:00:00,180.0,Breached,2026-03
+TCK-1144,Account Access,Low,Enterprise,Priya,Pending,2026-04-29 14:00:00,,,Open,2026-04
+TCK-1754,Feature Request,Low,Smb,Karan,Open,2026-07-08 13:00:00,2026-07-12 03:00:00,86.0,Within SLA,2026-07
+TCK-1520,Account Access,High,Smb,Riya,Pending,2026-07-07 06:00:00,,,Open,2026-07
+TCK-1823,General Inquiry,High,Enterprise,Priya,Resolved,2026-04-27 15:00:00,,,Open,2026-04
+TCK-1429,Account Access,High,Individual,Amit,Resolved,2026-03-31 07:00:00,2026-04-07 09:00:00,170.0,Breached,2026-03
+TCK-1613,Account Access,Low,Individual,Vikram,Pending,2026-05-21 01:00:00,,,Open,2026-05
+TCK-2033,Feature Request,Medium,Enterprise,Riya,Closed,2026-01-12 03:00:00,2026-01-13 06:00:00,27.0,Within SLA,2026-01
+TCK-1157,Technical,Critical,Enterprise,Vikram,Pending,2026-01-22 05:00:00,2026-01-31 21:00:00,232.0,Breached,2026-01
+TCK-1540,Technical,High,Smb,Priya,Resolved,2026-03-31 13:00:00,2026-04-09 20:00:00,223.0,Breached,2026-03
+TCK-1462,Feature Request,Medium,Enterprise,Unassigned,Resolved,2026-06-02 18:00:00,,,Open,2026-06
+TCK-1577,Billing,Medium,Smb,Arjun,Resolved,2026-05-21 08:00:00,2026-05-27 07:00:00,143.0,Breached,2026-05
+TCK-1256,Account Access,Medium,Enterprise,Neha,Pending,2026-06-24 18:00:00,2026-06-25 16:00:00,22.0,Within SLA,2026-06
+TCK-1980,Technical,High,Individual,Neha,Pending,2026-02-22 02:00:00,2026-02-24 23:00:00,69.0,Breached,2026-02
+TCK-2007,Billing,Low,Enterprise,Sana,Closed,2026-02-19 04:00:00,2026-02-25 18:00:00,158.0,Within SLA,2026-02
+TCK-1561,Account Access,Medium,Smb,Neha,Resolved,2026-03-19 14:00:00,2026-03-28 09:00:00,211.0,Breached,2026-03
+TCK-1209,Technical,Low,Enterprise,Amit,Resolved,2026-01-13 21:00:00,2026-01-16 07:00:00,58.0,Within SLA,2026-01
+TCK-1911,Billing,High,Individual,Vikram,Resolved,2026-07-05 05:00:00,,,Open,2026-07
+TCK-1002,Technical,Low,Smb,Unassigned,Closed,2026-04-19 01:00:00,,,Open,2026-04
+TCK-1270,Account Access,Medium,Smb,Vikram,Pending,2026-07-23 13:00:00,,,Open,2026-07
+TCK-1266,Bug Report,High,Enterprise,Priya,Pending,2026-01-07 23:00:00,2026-01-15 13:00:00,182.0,Breached,2026-01
+TCK-1915,Account Access,High,Enterprise,Neha,Open,2026-07-22 18:00:00,2026-07-23 19:00:00,25.0,Within SLA,2026-07
+TCK-1231,Account Access,Low,Smb,Arjun,Closed,2026-02-05 16:00:00,2026-02-08 04:00:00,60.0,Within SLA,2026-02
+TCK-2044,Billing,High,Smb,Riya,Pending,2026-02-23 07:00:00,,,Open,2026-02
+TCK-1865,Technical,Medium,Enterprise,Arjun,Open,2026-06-16 11:00:00,2026-06-25 22:00:00,227.0,Breached,2026-06
+TCK-2067,Bug Report,High,Smb,Amit,Resolved,2026-04-29 21:00:00,,,Open,2026-04
+TCK-1874,Feature Request,High,Enterprise,Neha,Closed,2026-07-27 11:00:00,2026-08-02 02:00:00,135.0,Breached,2026-07
+TCK-2106,General Inquiry,Medium,Enterprise,Karan,Resolved,2026-05-24 02:00:00,2026-05-30 13:00:00,155.0,Breached,2026-05
+TCK-1399,Technical,High,Individual,Sana,Resolved,2026-07-14 01:00:00,,,Open,2026-07
+TCK-2129,Technical,Medium,Individual,Neha,Resolved,2026-06-26 07:00:00,2026-07-03 14:00:00,175.0,Breached,2026-06
+TCK-1046,Technical,Low,Smb,Riya,Open,2026-02-02 06:00:00,2026-02-06 08:00:00,98.0,Within SLA,2026-02
+TCK-1162,General Inquiry,Low,Smb,Neha,Open,2026-04-28 02:00:00,,,Open,2026-04
+TCK-1992,Billing,Low,Enterprise,Vikram,Closed,2026-07-09 21:00:00,2026-07-18 16:00:00,211.0,Breached,2026-07
+TCK-1728,Bug Report,Low,Enterprise,Arjun,Open,2026-05-24 05:00:00,2026-05-28 10:00:00,101.0,Within SLA,2026-05
+TCK-1630,Feature Request,High,Individual,Riya,Resolved,2026-04-22 00:00:00,2026-04-30 13:00:00,205.0,Breached,2026-04
+TCK-1289,Technical,High,Enterprise,Sana,Pending,2026-06-29 04:00:00,2026-07-06 19:00:00,183.0,Breached,2026-06
+TCK-2060,Billing,Medium,Smb,Amit,Resolved,2026-07-02 21:00:00,2026-07-05 03:00:00,54.0,Within SLA,2026-07
+TCK-1576,Bug Report,Critical,Enterprise,Riya,Closed,2026-05-07 07:00:00,2026-05-14 08:00:00,169.0,Breached,2026-05
+TCK-1851,Technical,Low,Smb,Karan,Closed,2026-05-09 15:00:00,2026-05-11 17:00:00,50.0,Within SLA,2026-05
+TCK-1912,Technical,Medium,Enterprise,Neha,Resolved,2026-02-23 17:00:00,2026-02-28 07:00:00,110.0,Breached,2026-02
+TCK-2122,Billing,Critical,Smb,Sana,Resolved,2026-03-03 00:00:00,2026-03-05 00:00:00,48.0,Breached,2026-03
+TCK-1933,Billing,Low,Enterprise,Priya,Pending,2026-03-07 07:00:00,2026-03-14 09:00:00,170.0,Breached,2026-03
+TCK-2101,Bug Report,Critical,Smb,Arjun,Resolved,2026-07-23 06:00:00,2026-07-28 11:00:00,125.0,Breached,2026-07
+TCK-1248,Billing,High,Enterprise,Vikram,Closed,2026-05-15 08:00:00,2026-05-18 05:00:00,69.0,Breached,2026-05
+TCK-1477,Account Access,High,Individual,Vikram,Pending,2026-05-21 09:00:00,2026-05-27 09:00:00,144.0,Breached,2026-05
+TCK-1086,Account Access,Critical,Enterprise,Priya,Resolved,2026-04-15 10:00:00,2026-04-16 13:00:00,27.0,Breached,2026-04
+TCK-1470,Account Access,High,Enterprise,Karan,Closed,2026-04-05 17:00:00,2026-04-08 10:00:00,65.0,Breached,2026-04
+TCK-1226,Feature Request,Low,Smb,Arjun,Resolved,2026-04-06 12:00:00,2026-04-16 07:00:00,235.0,Breached,2026-04
+TCK-1775,Account Access,Low,Individual,Karan,Pending,2026-01-20 07:00:00,2026-01-27 13:00:00,174.0,Breached,2026-01
+TCK-1332,Billing,Low,Smb,Sana,Pending,2026-02-24 05:00:00,2026-03-01 00:00:00,115.0,Within SLA,2026-02
+TCK-1234,Technical,Medium,Individual,Neha,Pending,2026-03-18 12:00:00,2026-03-24 06:00:00,138.0,Breached,2026-03
+TCK-1589,General Inquiry,Low,Enterprise,Arjun,Open,2026-05-14 09:00:00,2026-05-21 15:00:00,174.0,Breached,2026-05
+TCK-1476,Technical,Low,Enterprise,Karan,Resolved,2026-03-12 12:00:00,2026-03-16 18:00:00,102.0,Within SLA,2026-03
+TCK-1600,Billing,Low,Enterprise,Priya,Pending,2026-04-24 01:00:00,2026-04-29 02:00:00,121.0,Within SLA,2026-04
+TCK-1422,General Inquiry,Critical,Smb,Sana,Resolved,2026-06-07 21:00:00,2026-06-17 03:00:00,222.0,Breached,2026-06
+TCK-1183,General Inquiry,Medium,Individual,Arjun,Closed,2026-04-21 16:00:00,2026-04-22 07:00:00,15.0,Within SLA,2026-04
+TCK-1989,Technical,Low,Smb,Karan,Open,2026-01-24 20:00:00,,,Open,2026-01
+TCK-2001,Technical,Critical,Individual,Amit,Resolved,2026-07-10 10:00:00,2026-07-12 04:00:00,42.0,Breached,2026-07
+TCK-1050,Billing,Low,Enterprise,Amit,Resolved,2026-05-07 12:00:00,2026-05-14 12:00:00,168.0,Within SLA,2026-05
+TCK-2161,Bug Report,Critical,Enterprise,Neha,Resolved,2026-07-20 21:00:00,2026-07-25 02:00:00,101.0,Breached,2026-07
+TCK-2030,Billing,High,Smb,Riya,Resolved,2026-07-15 20:00:00,2026-07-17 06:00:00,34.0,Within SLA,2026-07
+TCK-1530,Technical,Low,Enterprise,Vikram,Resolved,2026-02-25 16:00:00,,,Open,2026-02
+TCK-1487,Technical,Critical,Enterprise,Amit,Open,2026-01-09 16:00:00,2026-01-18 21:00:00,221.0,Breached,2026-01
+TCK-1498,Feature Request,Medium,Smb,Neha,Closed,2026-04-24 11:00:00,2026-04-30 01:00:00,134.0,Breached,2026-04
+TCK-1107,Technical,Low,Individual,Priya,Closed,2026-07-21 14:00:00,,,Open,2026-07
+TCK-1444,Account Access,Critical,Enterprise,Sana,Resolved,2026-03-14 19:00:00,,,Open,2026-03
+TCK-1647,General Inquiry,High,Individual,Amit,Resolved,2026-07-04 18:00:00,2026-07-08 22:00:00,100.0,Breached,2026-07
+TCK-2037,Bug Report,High,Individual,Karan,Resolved,2026-07-29 09:00:00,2026-07-30 12:00:00,27.0,Within SLA,2026-07
+TCK-1727,Bug Report,Low,Smb,Amit,Pending,2026-05-06 13:00:00,2026-05-14 05:00:00,184.0,Breached,2026-05
+TCK-1283,General Inquiry,High,Smb,Amit,Resolved,2026-01-08 07:00:00,2026-01-11 06:00:00,71.0,Breached,2026-01
+TCK-1030,Bug Report,High,Enterprise,Unassigned,Resolved,2026-03-09 12:00:00,2026-03-16 10:00:00,166.0,Breached,2026-03
+TCK-1170,General Inquiry,High,Enterprise,Karan,Pending,2026-03-28 05:00:00,2026-04-02 13:00:00,128.0,Breached,2026-03
+TCK-2002,General Inquiry,High,Enterprise,Karan,Resolved,2026-05-07 21:00:00,2026-05-11 09:00:00,84.0,Breached,2026-05
+TCK-1101,Technical,Critical,Smb,Amit,Open,2026-02-14 02:00:00,2026-02-18 04:00:00,98.0,Breached,2026-02
+TCK-1198,Account Access,Low,Individual,Amit,Resolved,2026-06-06 10:00:00,2026-06-13 00:00:00,158.0,Within SLA,2026-06
+TCK-1496,Technical,Medium,Individual,Priya,Resolved,2026-01-21 12:00:00,2026-01-26 11:00:00,119.0,Breached,2026-01
+TCK-1648,Billing,Critical,Enterprise,Amit,Resolved,2026-01-10 10:00:00,,,Open,2026-01
+TCK-1988,Technical,High,Enterprise,Priya,Open,2026-05-09 09:00:00,2026-05-13 23:00:00,110.0,Breached,2026-05
+TCK-1045,General Inquiry,High,Enterprise,Sana,Resolved,2026-03-22 21:00:00,2026-03-30 14:00:00,185.0,Breached,2026-03
+TCK-1711,Billing,Low,Enterprise,Vikram,Resolved,2026-01-31 08:00:00,,,Open,2026-01
+TCK-1374,Feature Request,Low,Enterprise,Unassigned,Open,2026-02-25 14:00:00,2026-03-03 04:00:00,134.0,Within SLA,2026-02
+TCK-1679,Technical,Critical,Enterprise,Neha,Open,2026-06-08 11:00:00,2026-06-15 21:00:00,178.0,Breached,2026-06
+TCK-1567,Technical,Low,Smb,Riya,Resolved,2026-01-28 14:00:00,2026-02-06 23:00:00,225.0,Breached,2026-01
+TCK-1848,Technical,High,Enterprise,Arjun,Closed,2026-04-29 11:00:00,2026-05-04 05:00:00,114.0,Breached,2026-04
+TCK-1461,Technical,Low,Smb,Arjun,Pending,2026-02-13 07:00:00,2026-02-19 17:00:00,154.0,Within SLA,2026-02
+TCK-2156,General Inquiry,Medium,Enterprise,Sana,Resolved,2026-07-29 23:00:00,2026-07-31 19:00:00,44.0,Within SLA,2026-07
+TCK-1040,Account Access,High,Smb,Vikram,Pending,2026-01-10 15:00:00,2026-01-19 09:00:00,210.0,Breached,2026-01
+TCK-1435,Billing,Medium,Individual,Vikram,Open,2026-04-28 22:00:00,2026-04-29 21:00:00,23.0,Within SLA,2026-04
+TCK-1974,Billing,Low,Individual,Riya,Resolved,2026-01-11 04:00:00,2026-01-18 04:00:00,168.0,Within SLA,2026-01
+TCK-2008,Feature Request,High,Enterprise,Sana,Open,2026-02-26 10:00:00,2026-02-27 02:00:00,16.0,Within SLA,2026-02
+TCK-1457,Technical,Critical,Individual,Amit,Pending,2026-02-17 05:00:00,2026-02-24 21:00:00,184.0,Breached,2026-02
+TCK-1261,Account Access,Critical,Individual,Karan,Open,2026-03-10 15:00:00,2026-03-12 10:00:00,43.0,Breached,2026-03
+TCK-1036,Technical,Low,Enterprise,Neha,Pending,2026-06-30 13:00:00,2026-07-01 18:00:00,29.0,Within SLA,2026-06
+TCK-1828,Technical,High,Individual,Priya,Pending,2026-06-12 14:00:00,2026-06-19 17:00:00,171.0,Breached,2026-06
+TCK-1310,Technical,Low,Enterprise,Riya,Closed,2026-06-06 19:00:00,,,Open,2026-06
+TCK-1277,Bug Report,Low,Individual,Priya,Resolved,2026-03-25 06:00:00,2026-03-28 02:00:00,68.0,Within SLA,2026-03
+TCK-1655,Technical,Low,Smb,Priya,Pending,2026-01-05 15:00:00,,,Open,2026-01
+TCK-1623,Account Access,High,Smb,Amit,Resolved,2026-02-12 01:00:00,2026-02-18 10:00:00,153.0,Breached,2026-02
+TCK-1845,Billing,Low,Enterprise,Unassigned,Resolved,2026-03-26 00:00:00,2026-03-27 11:00:00,35.0,Within SLA,2026-03
+TCK-1394,Billing,Critical,Smb,Sana,Resolved,2026-05-11 23:00:00,2026-05-15 00:00:00,73.0,Breached,2026-05
+TCK-1108,General Inquiry,Low,Individual,Sana,Pending,2026-02-21 04:00:00,2026-03-02 13:00:00,225.0,Breached,2026-02
+TCK-1350,Billing,Critical,Smb,Priya,Closed,2026-01-24 10:00:00,2026-01-31 00:00:00,158.0,Breached,2026-01
+TCK-1525,Billing,Low,Enterprise,Neha,Closed,2026-03-14 10:00:00,2026-03-17 21:00:00,83.0,Within SLA,2026-03
+TCK-1785,Feature Request,Low,Enterprise,Sana,Open,2026-01-20 01:00:00,2026-01-25 12:00:00,131.0,Within SLA,2026-01
+TCK-1048,General Inquiry,High,Smb,Vikram,Open,2026-05-02 23:00:00,2026-05-03 21:00:00,22.0,Within SLA,2026-05
+TCK-1204,Account Access,Low,Enterprise,Vikram,Open,2026-05-17 10:00:00,2026-05-24 16:00:00,174.0,Breached,2026-05
+TCK-1022,Bug Report,High,Enterprise,Karan,Resolved,2026-01-25 21:00:00,2026-01-30 10:00:00,109.0,Breached,2026-01
+TCK-1403,Account Access,Low,Smb,Vikram,Open,2026-04-16 14:00:00,,,Open,2026-04
+TCK-2108,Technical,Low,Individual,Vikram,Resolved,2026-01-12 08:00:00,2026-01-13 16:00:00,32.0,Within SLA,2026-01
+TCK-1990,General Inquiry,High,Smb,Karan,Pending,2026-05-22 15:00:00,2026-05-22 18:00:00,3.0,Within SLA,2026-05
+TCK-1742,Technical,Medium,Enterprise,Sana,Pending,2026-06-25 19:00:00,2026-06-28 09:00:00,62.0,Within SLA,2026-06
+TCK-2148,General Inquiry,High,Smb,Sana,Resolved,2026-01-23 04:00:00,2026-01-26 10:00:00,78.0,Breached,2026-01
+TCK-1034,Account Access,Low,Enterprise,Riya,Resolved,2026-03-14 19:00:00,2026-03-18 11:00:00,88.0,Within SLA,2026-03
+TCK-1788,Technical,Medium,Enterprise,Sana,Resolved,2026-07-26 08:00:00,2026-08-05 04:00:00,236.0,Breached,2026-07
+TCK-1924,Technical,High,Individual,Vikram,Open,2026-02-12 23:00:00,2026-02-17 12:00:00,109.0,Breached,2026-02
+TCK-2198,Billing,Low,Smb,Sana,Open,2026-06-25 16:00:00,2026-07-01 21:00:00,149.0,Within SLA,2026-06
+TCK-1580,Billing,Critical,Smb,Amit,Closed,2026-01-24 09:00:00,2026-02-02 23:00:00,230.0,Breached,2026-01
+TCK-1482,Account Access,Low,Smb,Amit,Open,2026-03-05 09:00:00,,,Open,2026-03
+TCK-1932,Billing,High,Smb,Amit,Closed,2026-03-04 15:00:00,,,Open,2026-03
+TCK-1357,General Inquiry,Critical,Smb,Amit,Resolved,2026-04-16 18:00:00,2026-04-17 10:00:00,16.0,Within SLA,2026-04
+TCK-1760,Billing,Critical,Smb,Sana,Closed,2026-04-29 06:00:00,2026-05-08 09:00:00,219.0,Breached,2026-04
+TCK-1093,Bug Report,Medium,Enterprise,Arjun,Open,2026-03-14 23:00:00,2026-03-21 06:00:00,151.0,Breached,2026-03
+TCK-2176,General Inquiry,Critical,Smb,Riya,Resolved,2026-01-19 13:00:00,2026-01-26 02:00:00,157.0,Breached,2026-01
+TCK-1804,Billing,Low,Smb,Karan,Resolved,2026-04-23 14:00:00,2026-05-01 16:00:00,194.0,Breached,2026-04
+TCK-1746,General Inquiry,High,Smb,Sana,Pending,2026-01-29 18:00:00,2026-02-08 17:00:00,239.0,Breached,2026-01
+TCK-1280,General Inquiry,High,Smb,Amit,Open,2026-02-05 18:00:00,2026-02-07 18:00:00,48.0,Within SLA,2026-02
+TCK-1765,Feature Request,High,Enterprise,Sana,Resolved,2026-03-24 22:00:00,2026-03-27 05:00:00,55.0,Breached,2026-03
+TCK-1605,Billing,Critical,Enterprise,Karan,Open,2026-07-16 11:00:00,2026-07-17 20:00:00,33.0,Breached,2026-07
+TCK-1401,Billing,Medium,Enterprise,Amit,Resolved,2026-06-16 05:00:00,,,Open,2026-06
+TCK-1258,Billing,Medium,Enterprise,Priya,Resolved,2026-04-24 11:00:00,2026-04-25 14:00:00,27.0,Within SLA,2026-04
+TCK-1945,Technical,Low,Smb,Sana,Closed,2026-01-01 14:00:00,2026-01-05 21:00:00,103.0,Within SLA,2026-01
+TCK-2097,General Inquiry,Low,Smb,Arjun,Resolved,2026-02-19 19:00:00,,,Open,2026-02
+TCK-2162,Technical,High,Individual,Arjun,Resolved,2026-07-01 16:00:00,2026-07-07 07:00:00,135.0,Breached,2026-07
+TCK-1495,General Inquiry,Medium,Individual,Amit,Pending,2026-03-31 21:00:00,2026-04-03 00:00:00,51.0,Within SLA,2026-03
+TCK-1773,Billing,High,Enterprise,Sana,Closed,2026-05-07 03:00:00,2026-05-16 09:00:00,222.0,Breached,2026-05
+TCK-1551,Account Access,Low,Enterprise,Riya,Resolved,2026-02-13 01:00:00,2026-02-21 12:00:00,203.0,Breached,2026-02
+TCK-1202,Technical,Critical,Smb,Amit,Resolved,2026-01-05 14:00:00,2026-01-07 05:00:00,39.0,Breached,2026-01
+TCK-1313,Technical,High,Smb,Karan,Resolved,2026-04-27 16:00:00,2026-05-03 00:00:00,128.0,Breached,2026-04
+TCK-1291,Billing,High,Enterprise,Arjun,Resolved,2026-05-05 10:00:00,2026-05-14 17:00:00,223.0,Breached,2026-05
+TCK-1764,Account Access,Low,Enterprise,Amit,Closed,2026-03-16 08:00:00,2026-03-21 04:00:00,116.0,Within SLA,2026-03
+TCK-2137,Technical,Low,Smb,Arjun,Resolved,2026-04-11 18:00:00,2026-04-14 17:00:00,71.0,Within SLA,2026-04
+TCK-1950,Bug Report,Low,Enterprise,Vikram,Closed,2026-06-22 17:00:00,2026-06-27 17:00:00,120.0,Within SLA,2026-06
+TCK-1184,Account Access,Medium,Smb,Sana,Resolved,2026-03-30 16:00:00,2026-04-08 17:00:00,217.0,Breached,2026-03
+TCK-2177,Feature Request,Critical,Individual,Vikram,Resolved,2026-01-10 15:00:00,2026-01-17 14:00:00,167.0,Breached,2026-01
+TCK-2069,Billing,High,Enterprise,Neha,Pending,2026-06-04 15:00:00,2026-06-12 13:00:00,190.0,Breached,2026-06
+TCK-2031,Billing,Medium,Smb,Amit,Closed,2026-07-22 03:00:00,2026-07-30 21:00:00,210.0,Breached,2026-07
+TCK-1251,Bug Report,High,Enterprise,Sana,Resolved,2026-01-11 07:00:00,2026-01-20 14:00:00,223.0,Breached,2026-01
+TCK-1824,Technical,Low,Individual,Arjun,Open,2026-01-31 11:00:00,2026-01-31 22:00:00,11.0,Within SLA,2026-01
+TCK-2100,Account Access,Critical,Enterprise,Sana,Closed,2026-02-14 06:00:00,2026-02-23 18:00:00,228.0,Breached,2026-02
+TCK-1941,Bug Report,Critical,Enterprise,Unassigned,Open,2026-01-17 10:00:00,,,Open,2026-01
+TCK-1392,General Inquiry,High,Enterprise,Vikram,Resolved,2026-06-26 03:00:00,2026-06-30 05:00:00,98.0,Breached,2026-06
+TCK-2192,Account Access,Medium,Enterprise,Vikram,Closed,2026-04-29 13:00:00,2026-05-05 15:00:00,146.0,Breached,2026-04
+TCK-1905,Billing,Low,Smb,Amit,Closed,2026-06-21 23:00:00,2026-06-26 22:00:00,119.0,Within SLA,2026-06
+TCK-1731,Billing,High,Smb,Unassigned,Open,2026-01-22 22:00:00,,,Open,2026-01
+TCK-1555,Account Access,Medium,Smb,Riya,Open,2026-01-05 11:00:00,2026-01-09 06:00:00,91.0,Within SLA,2026-01
+TCK-1367,General Inquiry,Medium,Enterprise,Priya,Closed,2026-07-14 16:00:00,2026-07-23 11:00:00,211.0,Breached,2026-07
+TCK-1346,Account Access,Critical,Enterprise,Vikram,Resolved,2026-03-30 10:00:00,2026-04-08 21:00:00,227.0,Breached,2026-03
+TCK-1536,Account Access,Low,Smb,Neha,Resolved,2026-02-24 10:00:00,,,Open,2026-02
+TCK-1920,Technical,High,Individual,Vikram,Resolved,2026-05-14 13:00:00,2026-05-17 15:00:00,74.0,Breached,2026-05
+TCK-1503,Feature Request,Low,Smb,Arjun,Pending,2026-06-28 17:00:00,2026-07-05 02:00:00,153.0,Within SLA,2026-06
+TCK-1176,Feature Request,Low,Enterprise,Sana,Pending,2026-01-30 00:00:00,2026-02-04 08:00:00,128.0,Within SLA,2026-01
