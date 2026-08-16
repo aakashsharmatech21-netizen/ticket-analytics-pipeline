@@ -41,10 +41,12 @@ def clean(df: pd.DataFrame) -> pd.DataFrame:
     df = df.drop_duplicates(subset="ticket_id", keep="first")
     print(f"Dropped {before - len(df)} duplicate ticket rows")
 
-    # 3. Standardize text fields
+    # 3. Standardize text fields (done step by step, not chained, so it's easy to follow)
     for col in ["category", "priority", "customer_segment", "status"]:
-        df[col] = df[col].astype(str).str.strip().str.title()
-        df[col] = df[col].replace("Nan", np.nan)
+        df[col] = df[col].astype(str)          # make sure it's plain text
+        df[col] = df[col].str.strip()           # remove extra spaces
+        df[col] = df[col].str.title()           # "billing" / "BILLING" -> "Billing"
+        df[col] = df[col].replace("Nan", np.nan)  # fix the "Nan" string side-effect from astype(str)
 
     # 4. Parse dates
     df["created_date"] = df["created_date"].apply(parse_mixed_date)
@@ -72,7 +74,7 @@ def clean(df: pd.DataFrame) -> pd.DataFrame:
 
     df["sla_status"] = df.apply(sla_breach, axis=1)
 
-    # helpful derived time fields for trend analysis
+    # helpful derived time field for trend analysis
     df["created_month"] = df["created_date"].dt.to_period("M").astype(str)
 
     return df.reset_index(drop=True)

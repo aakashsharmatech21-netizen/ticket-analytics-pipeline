@@ -1,8 +1,8 @@
 """
 ai_insights.py
-The AI differentiator layer. Takes the SQL-aggregated summary data (not raw tickets —
-never send raw/PII-style data to an LLM) and generates a plain-English weekly ops
-report, the same way a human analyst would summarize a dashboard for a manager.
+The AI differentiator layer. Takes the summary tables (not the raw ticket list)
+and asks an AI model to write a short, plain-English weekly report — the same
+way a human analyst would summarize a dashboard for a manager.
 
 Uses OpenRouter API - same pattern as your Support Ticket Classifier project.
 Requires: OPENROUTER_API_KEY environment variable.
